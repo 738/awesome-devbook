@@ -35,6 +35,7 @@
   - [클린코드](#클린코드)
   - [객체지향](#객체지향)
   - [함수형 프로그래밍](#함수형-프로그래밍)
+  - [도메인 주도 설계](#도메인-주도-설계)
 - [특정 기술에 대한 서적](#특정-기술에-대한-서적)
   - [프론트엔드](#프론트엔드)
   - [백엔드](#백엔드)
@@ -42,10 +43,9 @@
   - [C언어](#c언어)
 - [컴퓨터과학](#컴퓨터과학)
   - [알고리즘](#알고리즘)
-  - [운영체제](#운영체제)
   - [컴퓨터구조](#컴퓨터구조)
+  - [운영체제](#운영체제)
   - [네트워크](#네트워크)
-  - [데이터베이스](#데이터베이스)
 
 
 ## 행동양식에 대한 서적
@@ -170,19 +170,21 @@
 - [누워서 읽는 알고리즘 | 프로그래밍 상상력을 키워주는 알고리즘 이야기](https://book.naver.com/bookdb/book_detail.nhn?bid=9685856) - 임백준
 - [Hello Coding 그림으로 개념을 이해하는 알고리즘](https://book.naver.com/bookdb/book_detail.nhn?bid=11823284) - 아디트야 바르가바
 
-### 운영체제
-
 ### 컴퓨터구조
 
-- 컴퓨터 시스템
-- 컴퓨터 프로그램의 구조와 해석
-- 인사이드 머신
+- [컴퓨터 구조 및 설계 | 하드웨어/소프트웨어 인터페이스](https://book.naver.com/bookdb/book_detail.nhn?bid=8751823) - David A. Patterson, L. Hennessy
+- [인사이드 머신 | 그림으로 배우는 컴퓨터 아키텍처와 마이크로프로세서](https://book.naver.com/bookdb/book_detail.nhn?bid=2884659) - 존 스토크스
+
+### 운영체제
+
+- [운영체제](https://book.naver.com/bookdb/book_detail.nhn?bid=16291575) - 아브라함 실버스카츠
+- [실습과 그림으로 배우는 리눅스 구조 | 개발자가 알아야 하는 OS와 하드웨어의 기초](https://book.naver.com/bookdb/book_detail.nhn?bid=14524977) - 다케우치 사토루
+- [운영체제 아주 쉬운 세 가지 이야기](https://book.naver.com/bookdb/book_detail.nhn?bid=11823378) - Remzi H. Arpaci-Dusseau
 
 ### 네트워크
 
-### 데이터베이스
-
-- [Real MySQL](https://book.naver.com/bookdb/book_detail.nhn?bid=6886962) - 이성욱
+- [후니의 쉽게 쓴 시스코 네트워킹 | 시스코 전문가가 말하는 네트워크 따라잡기](https://book.naver.com/bookdb/book_detail.nhn?bid=6594286) - 진강훈
+- [모두의 네트워크 | 10일 만에 배우는 네트워크 기초](https://book.naver.com/bookdb/book_detail.nhn?bid=13735927) - 미즈구치 카츠야
 
 
 ## License
