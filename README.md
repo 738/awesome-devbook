@@ -118,42 +118,43 @@
 
 #### 자바스크립트
 
-- You don't know JS
-- 코어 자바스크립트
+- [자바스크립트 완벽 가이드](https://book.naver.com/bookdb/book_detail.nhn?bid=10338797) - 데이비드 플래너건
+- [You don't know JS](https://book.naver.com/bookdb/book_detail.nhn?bid=12199050) - 카일 심슨
+- [코어 자바스크립트 | 핵심 개념과 동작 원리로 이해하는 자바스크립트 프로그래밍](https://book.naver.com/bookdb/book_detail.nhn?bid=15433261) - 정재남
 
 #### 리액트
 
-- 리액트를 다루는 기술
+- [리액트를 다루는 기술 | 입문부터 대규모 애플리케이션까지 한 권으로](https://book.naver.com/bookdb/book_detail.nhn?bid=15372757) - 김민준
 
 ### 백엔드
 
 #### 자바
 
-- 이펙티브 자바
-- 모던 자바 인 액션
+- [이펙티브 자바](https://book.naver.com/bookdb/book_detail.nhn?bid=14097515) - 조슈아 블로크
+- [모던 자바 인 액션 | 람다, 스트림, 함수형, 리액티브 프로그래밍으로 새로워진 자바 마스터하기](https://book.naver.com/bookdb/book_detail.nhn?bid=15261103) - 라울-게이브리얼 우르마, 마리오 푸스코, 앨런 마이크로프트
 
 #### 코틀린
 
-- 코틀린 인 액션
+- [코틀린 인 액션 | 코틀린 컴파일러 개발자가 직접 알려주는 코틀린 언어 핵심](https://book.naver.com/bookdb/book_detail.nhn?bid=12685155) - 드미트리 제메로프, 스베트라나 이사코바
 
 #### 스프링
 
-- 토비의 스프링
-- 스프링 입문을 위한 객체지향의 원리와 이해
+- [토비의 스프링](https://book.naver.com/bookdb/book_detail.nhn?bid=7006516) - 이일민
+- [스프링 입문을 위한 자바 객체 지향의 원리와 이해](https://book.naver.com/bookdb/book_detail.nhn?bid=8920762) - 김종민
 
 #### HTTP
 
-- HTTP 완벽 가이드
+- [HTTP 완벽 가이드 | 웹은 어떻게 동작하는가](https://book.naver.com/bookdb/book_detail.nhn?bid=8509980) - 데이빗 고울리, 브라이언 토티, 마조리 세이어, 세일루 레디, 안슈 아가왈
 
 ### 데브옵스
 
-- 쿠버네티스 인 액션
-- 데브옵스 핸드북
+- [Kubernetes in Action | 그림과 상세한 설명을 통한 쿠버네티스 완벽 이해](https://book.naver.com/bookdb/book_detail.nhn?bid=14301229) - 마르코 룩샤
+- [데브옵스 핸드북 | 세계 최고 수준의 기민성, 신뢰성, 안정성을 갖춘 기술조직의 비밀](https://book.naver.com/bookdb/book_detail.nhn?bid=13735219) - 진 킴, 제즈 험블, 패트릭 드부아, 존 윌리스
 
 ### C언어
 
-- The C Programming Language
-- 열혈강의 C
+- [윤성우의 열혈 C 프로그래밍](https://book.naver.com/bookdb/book_detail.nhn?bid=6393451) - 윤성우
+- [독하게 시작하는 C 프로그래밍 | 널널한 개발자의 C 언어 마스터클래스](https://book.naver.com/bookdb/book_detail.nhn?bid=9204167) - 최호성
 
 
 ## 컴퓨터과학 서적
@@ -183,6 +184,6 @@
 
 These documents are licensed by [SUSHI-WARE](https://github.com/MakeNowJust/sushi-ware) license
 
-(C) 2020 [@738]
+(C) 2021 [@738]
 
 [@738]: https://github.com/738
