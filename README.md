@@ -38,6 +38,9 @@
   - [프론트엔드](#프론트엔드)
   - [백엔드](#백엔드)
   - [데브옵스](#데브옵스)
+  - [머신러닝](#머신러닝)
+  - [안드로이드](#안드로이드)
+  - [iOS](#iOS)
   - [C언어](#c언어)
 - [컴퓨터과학](#컴퓨터과학)
   - [알고리즘](#알고리즘)
@@ -72,7 +75,6 @@
 - [조엘 온 소프트웨어 | 유쾌한 오프라인 블로그](https://book.naver.com/bookdb/book_detail.nhn?bid=1528741) - 조엘 스폴스키
 - [맨먼스 미신 | 소프트웨어 공학에 관한 에세이](https://book.naver.com/bookdb/book_detail.nhn?bid=8826350) - 프레더릭 브룩스
 - [유지보수하기 어렵게 코딩하는 방법: 평생 개발자로 먹고 살 수 있다](https://book.naver.com/bookdb/book_detail.nhn?bid=7085402) - 로에디 그린
-
 
 
 ## 특정 개념에 대한 서적
@@ -132,6 +134,8 @@
 #### 리액트
 
 - [리액트를 다루는 기술 | 입문부터 대규모 애플리케이션까지 한 권으로](https://book.naver.com/bookdb/book_detail.nhn?bid=15372757) - 김민준
+- [실전 리액트 프로그래밍(개정판) | 리액트 훅부터 Next.js까지](https://book.naver.com/bookdb/book_detail.nhn?bid=16391022) - 이재승
+- [Do it! 리액트 프로그래밍 정석 | 실리콘밸리 개발 방법으로 배우는](https://book.naver.com/bookdb/book_detail.nhn?bid=16243500) - 박호준
 
 ### 백엔드
 
@@ -157,6 +161,23 @@
 
 - [Kubernetes in Action | 그림과 상세한 설명을 통한 쿠버네티스 완벽 이해](https://book.naver.com/bookdb/book_detail.nhn?bid=14301229) - 마르코 룩샤
 - [데브옵스 핸드북 | 세계 최고 수준의 기민성, 신뢰성, 안정성을 갖춘 기술조직의 비밀](https://book.naver.com/bookdb/book_detail.nhn?bid=13735219) - 진 킴, 제즈 험블, 패트릭 드부아, 존 윌리스
+
+### 머신러닝
+
+- [밑바닥부터 시작하는 딥러닝 시리즈](https://book.naver.com/bookdb/book_detail.nhn?bid=11492334) - 사이토 고키
+- [파이썬 라이브러리를 활용한 머신러닝 | 번역개정판, 사이킷런 핵심 개발자가 쓴 머신러닝과 데이터 과학 실무서](https://book.naver.com/bookdb/book_detail.nhn?bid=14645299) - 안드레아스 뮐러, 세라 가이도
+- [단단한 머신러닝(아이러브 인공지능 24) | 머신러닝 기본 개념을 제대로 정리한 인공지능 교과서](https://book.naver.com/bookdb/book_detail.nhn?bid=16265044) - 조우쯔화
+
+### 안드로이드
+
+- [깡샘의 안드로이드 프로그래밍 | 95개 실습 예제와 해설 동영상 강의 수록](https://book.naver.com/bookdb/book_detail.nhn?bid=12594901) - 강성윤
+- [Do it! 안드로이드 앱 프로그래밍](https://book.naver.com/bookdb/book_detail.nhn?bid=16242159) - 정재곤
+- [이것이 안드로이드다 with 코틀린 | 안드로이드 입문의 3가지 장벽, 언어+실전+환경 완벽 대응!](https://book.naver.com/bookdb/book_detail.nhn?bid=16331539) - 고돈호
+
+### iOS
+
+- [꼼꼼한 재은 씨의 스위프트 시리즈](https://book.naver.com/bookdb/book_detail.nhn?bid=13572694) - 이재은
+- [Do it! 스위프트로 아이폰 앱 만들기 입문](https://book.naver.com/bookdb/book_detail.nhn?bid=14427908) - 송호정, 이범근
 
 ### C언어
 
@@ -190,7 +211,7 @@
 
 ## Contributing
 
-`CONTRIBUTING.md`를 읽고 기여해주세요!
+[`CONTRIBUTING.md`](/CONTRIBUTING.md)를 읽고 기여해주세요!
 
 
 ## License
