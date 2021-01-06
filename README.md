@@ -21,8 +21,6 @@
 
 > 인용문은 <소프트웨어 장인>에서 발췌했습니다.
 
-> PR은 언제나 환영입니다.
-
 ## 목차
 
 - [행동양식에 대한 서적](#행동양식에-대한-서적)
@@ -189,6 +187,10 @@
 
 - [후니의 쉽게 쓴 시스코 네트워킹 | 시스코 전문가가 말하는 네트워크 따라잡기](https://book.naver.com/bookdb/book_detail.nhn?bid=6594286) - 진강훈
 - [모두의 네트워크 | 10일 만에 배우는 네트워크 기초](https://book.naver.com/bookdb/book_detail.nhn?bid=13735927) - 미즈구치 카츠야
+
+## Contributing
+
+`CONTRIBUTING.md`를 읽고 기여해주세요!
 
 
 ## License
