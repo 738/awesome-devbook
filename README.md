@@ -73,6 +73,8 @@
 - [생각하는 프로그래밍 | 프로그래밍 본질에 관한 15가지 에세이](https://book.naver.com/bookdb/book_detail.nhn?bid=7390670) - 존 벤틀리
 - [조엘 온 소프트웨어 | 유쾌한 오프라인 블로그](https://book.naver.com/bookdb/book_detail.nhn?bid=1528741) - 조엘 스폴스키
 - [맨먼스 미신 | 소프트웨어 공학에 관한 에세이](https://book.naver.com/bookdb/book_detail.nhn?bid=8826350) - 프레더릭 브룩스
+- [유지보수하기 어렵게 코딩하는 방법: 평생 개발자로 먹고 살 수 있다](https://book.naver.com/bookdb/book_detail.nhn?bid=7085402) - 로에디 그린
+
 
 
 ## 특정 개념에 대한 서적
