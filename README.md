@@ -88,6 +88,8 @@
 
 - [테스트 주도 개발](https://book.naver.com/bookdb/book_detail.nhn?bid=7443642) - 켄트 벡
 - [테스트 주도 개발로 배우는 객체 지향 설계와 실천](https://book.naver.com/bookdb/book_detail.nhn?bid=7231228) - 스티브 프리먼, 냇 프라이스
+- [클린 코드를 위한 테스트 주도 개발 | 파이썬을 이용한](https://book.naver.com/bookdb/book_detail.nhn?bid=8819504) - 해리 J. W. 퍼시벌 
+- [테스트 주도 개발 | 고품질 쾌속개발을 위한 TDD 실천법과 도구](https://book.naver.com/bookdb/book_detail.nhn?bid=6291557) - 채수원
 
 ### 클린코드
 
