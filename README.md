@@ -58,6 +58,7 @@
 - [클린 애자일](https://book.naver.com/bookdb/book_detail.nhn?bid=17524418) - 로버트 C. 마틴
 - [클린 소프트웨어 | 애자일 원칙과 패턴, 그리고 실천 방법](https://book.naver.com/bookdb/book_detail.nhn?bid=12035385) - 로버트 C. 마틴
 - [린 스타트업 | 지속적 혁신을 실현하는 창업의 과학](https://book.naver.com/bookdb/book_detail.nhn?bid=7044697) - 에릭 리스
+- [함께 자라기 | 애자일로 가는 길](https://book.naver.com/bookdb/book_detail.nhn?bid=14341885) - 김창준
 
 ### 소프트웨어 장인정신
 
@@ -135,6 +136,7 @@
 - [자바스크립트 완벽 가이드](https://book.naver.com/bookdb/book_detail.nhn?bid=10338797) - 데이비드 플래너건
 - [You don't know JS](https://book.naver.com/bookdb/book_detail.nhn?bid=12199050) - 카일 심슨
 - [코어 자바스크립트 | 핵심 개념과 동작 원리로 이해하는 자바스크립트 프로그래밍](https://book.naver.com/bookdb/book_detail.nhn?bid=15433261) - 정재남
+- [인사이드 자바스크립트 | 핵심 개념과 원리를 정확하게 jQuery Node.js 클로저의 개념까지, Inside JavaScript](https://book.naver.com/bookdb/book_detail.nhn?bid=7400243) - 송형주, 고현준
 
 #### 리액트
 
@@ -142,7 +144,13 @@
 - [실전 리액트 프로그래밍(개정판) | 리액트 훅부터 Next.js까지](https://book.naver.com/bookdb/book_detail.nhn?bid=16391022) - 이재승
 - [Do it! 리액트 프로그래밍 정석 | 실리콘밸리 개발 방법으로 배우는](https://book.naver.com/bookdb/book_detail.nhn?bid=16243500) - 박호준
 
+#### 뷰
+
+- [Do it! Vue.js 입문](https://book.naver.com/bookdb/book_detail.nhn?bid=13256615) - 장기효
+- [커피 한 잔 마시며 끝내는 Vue.JS | Vue.JS를 통해 실전 애플리케이션 구축하기](https://book.naver.com/bookdb/book_detail.nhn?bid=15202990) - 김영훈, 문동욱
+
 #### 앵귤러
+
 - [Angular Essentials | ES6, TypeScript 핵심 완벽 설명](https://book.naver.com/bookdb/book_detail.nhn?bid=13761643) - 이웅모
 
 ### 백엔드
@@ -160,12 +168,19 @@
 
 - [토비의 스프링](https://book.naver.com/bookdb/book_detail.nhn?bid=7006516) - 이일민
 - [스프링 입문을 위한 자바 객체 지향의 원리와 이해](https://book.naver.com/bookdb/book_detail.nhn?bid=8920762) - 김종민
+- [스프링 부트와 AWS로 혼자 구현하는 웹 서비스 | 인텔리제이, JPA, JUnit 테스트, 그레이들, 소셜 로그인, AWS 인프라로 무중단 배포까지](https://book.naver.com/bookdb/book_detail.nhn?bid=15871738) - 이동욱
+- [코드로 배우는 스프링 웹 프로젝트 | 현업 개발을 위한 단계별 실습서](https://book.naver.com/bookdb/book_detail.nhn?bid=13993776) - 구멍가게 코딩단
+- [스프링5 레시피 | 스프링 애플리케이션 개발에 유용한 161가지 문제 해결 기법](https://book.naver.com/bookdb/book_detail.nhn?bid=13911953) - 마틴 데니엄, 다니엘 루비오, 조시 롱
 
 #### 파이썬
 
 - [파이썬 클린 코드 | 유지보수가 쉬운 파이썬 코드를 만드는 비결](https://book.naver.com/bookdb/book_detail.nhn?bid=14469064) - 마리아노 아나야
 - [슬기로운 파이썬 트릭 | 짧고 흥미로운 코드로 배우는 파이썬 실용 코딩](https://book.naver.com/bookdb/book_detail.nhn?bid=14459247) - 댄 베이더
 - [Effective Python 2nd 이펙티브 파이썬 : 파이썬 코딩의 기술 | 똑똑하게 코딩하는 법](https://book.naver.com/bookdb/book_detail.nhn?bid=16876960) - 브렛 슬라킨
+
+#### Node.js
+
+- [Node.js 교과서(개정판 2판) | 기본기에 충실한 노드제이에스 14 입문서](https://book.naver.com/bookdb/book_detail.nhn?bid=16418778) - 조현영
 
 #### HTTP
 
@@ -181,6 +196,7 @@
 - [밑바닥부터 시작하는 딥러닝 시리즈](https://book.naver.com/bookdb/book_detail.nhn?bid=11492334) - 사이토 고키
 - [파이썬 라이브러리를 활용한 머신러닝 | 번역개정판, 사이킷런 핵심 개발자가 쓴 머신러닝과 데이터 과학 실무서](https://book.naver.com/bookdb/book_detail.nhn?bid=14645299) - 안드레아스 뮐러, 세라 가이도
 - [단단한 머신러닝(아이러브 인공지능 24) | 머신러닝 기본 개념을 제대로 정리한 인공지능 교과서](https://book.naver.com/bookdb/book_detail.nhn?bid=16265044) - 조우쯔화
+- [머신러닝 탐구생활 | Kaggle 우승작으로 배우는, 파이썬을 활용한 머신러닝 실전 예제 분석](https://book.naver.com/bookdb/book_detail.nhn?bid=13950520) - 정권우
 
 ### 안드로이드
 
@@ -191,6 +207,7 @@
 ### iOS
 
 - [꼼꼼한 재은 씨의 스위프트 시리즈](https://book.naver.com/bookdb/book_detail.nhn?bid=13572694) - 이재은
+- [스위프트 프로그래밍 | 객체지향, 함수형, 프로토콜 지향 패러다임까지 한 번에!, Swift 5](https://book.naver.com/bookdb/book_detail.nhn?bid=15479573) - 야곰
 - [Do it! 스위프트로 아이폰 앱 만들기 입문](https://book.naver.com/bookdb/book_detail.nhn?bid=14427908) - 송호정, 이범근
 
 ### C언어
@@ -206,8 +223,11 @@
 ### 알고리즘
 
 - [윤성우의 열혈 자료구조 | C언어를 이용한 자료구조 학습서](https://book.naver.com/bookdb/book_detail.nhn?bid=6809127) - 윤성우
-- [누워서 읽는 알고리즘 | 프로그래밍 상상력을 키워주는 알고리즘 이야기](https://book.naver.com/bookdb/book_detail.nhn?bid=9685856) - 임백준
+- [알고리즘 문제 해결 전략 세트 | 프로그래밍 대회에서 배우는, 전2권](https://book.naver.com/bookdb/book_detail.nhn?bid=7058764) - 구종만
+- [알고리즘 트레이닝 | 프로그래밍 대회 입문 가이드](https://book.naver.com/bookdb/book_detail.nhn?bid=14829160) - 안티 라크소넨
+- [다이내믹 프로그래밍 완전정복 | 빠르고 우아한 상향식 문제 풀이법](https://book.naver.com/bookdb/book_detail.nhn?bid=15511587) - 미나크시, 카말 라와트
 - [Hello Coding 그림으로 개념을 이해하는 알고리즘](https://book.naver.com/bookdb/book_detail.nhn?bid=11823284) - 아디트야 바르가바
+- [누워서 읽는 알고리즘 | 프로그래밍 상상력을 키워주는 알고리즘 이야기](https://book.naver.com/bookdb/book_detail.nhn?bid=9685856) - 임백준
 
 ### 컴퓨터구조
 
