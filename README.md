@@ -118,6 +118,7 @@
 
 - [도메인 주도 설계 | 소프트웨어의 복잡성을 다루는 지혜](https://book.naver.com/bookdb/book_detail.nhn?bid=6680572) - 에릭 에반스
 - [도메인 주도 설계 핵심 | 핵심을 간추린 비즈니스 중심의 설계로 소프트웨어 개발 프로젝트 성공하기](https://book.naver.com/bookdb/book_detail.nhn?bid=12547690) - 반 버논
+- [DDD Start! | 도메인 주도 설계 구현과 핵심 개념 익히기](https://book.naver.com/bookdb/book_detail.nhn?bid=10615650) - 최범균
 
 **[⬆ 맨 위로 이동](#목차)**
 
@@ -140,6 +141,9 @@
 - [리액트를 다루는 기술 | 입문부터 대규모 애플리케이션까지 한 권으로](https://book.naver.com/bookdb/book_detail.nhn?bid=15372757) - 김민준
 - [실전 리액트 프로그래밍(개정판) | 리액트 훅부터 Next.js까지](https://book.naver.com/bookdb/book_detail.nhn?bid=16391022) - 이재승
 - [Do it! 리액트 프로그래밍 정석 | 실리콘밸리 개발 방법으로 배우는](https://book.naver.com/bookdb/book_detail.nhn?bid=16243500) - 박호준
+
+#### 앵귤러
+- [Angular Essentials | ES6, TypeScript 핵심 완벽 설명](https://book.naver.com/bookdb/book_detail.nhn?bid=13761643) - 이웅모
 
 ### 백엔드
 
