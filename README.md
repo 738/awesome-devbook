@@ -160,9 +160,7 @@
 #### 파이썬
 
 - [파이썬 클린 코드 | 유지보수가 쉬운 파이썬 코드를 만드는 비결](https://book.naver.com/bookdb/book_detail.nhn?bid=14469064) - 마리아노 아나야
-
 - [슬기로운 파이썬 트릭 | 짧고 흥미로운 코드로 배우는 파이썬 실용 코딩](https://book.naver.com/bookdb/book_detail.nhn?bid=14459247) - 댄 베이더
-
 - [Effective Python 2nd 이펙티브 파이썬 : 파이썬 코딩의 기술 | 똑똑하게 코딩하는 법](https://book.naver.com/bookdb/book_detail.nhn?bid=16876960) - 브렛 슬라킨
 
 #### HTTP
