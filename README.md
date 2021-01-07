@@ -157,6 +157,12 @@
 - [토비의 스프링](https://book.naver.com/bookdb/book_detail.nhn?bid=7006516) - 이일민
 - [스프링 입문을 위한 자바 객체 지향의 원리와 이해](https://book.naver.com/bookdb/book_detail.nhn?bid=8920762) - 김종민
 
+#### 파이썬
+
+* [파이썬 클린 코드 | 유지보수가 쉬운 파이썬 코드를 만드는 비결](https://book.naver.com/bookdb/book_detail.nhn?bid=14469064) - 마리아노 아나야
+* [슬기로운 파이썬 트릭 | 짧고 흥미로운 코드로 배우는 파이썬 실용 코딩](https://book.naver.com/bookdb/book_detail.nhn?bid=14459247) - 댄 베이더
+* [Effective Python 2nd 이펙티브 파이썬 : 파이썬 코딩의 기술 | 똑똑하게 코딩하는 법](https://book.naver.com/bookdb/book_detail.nhn?bid=16876960) - 브렛 슬라킨
+
 #### HTTP
 
 - [HTTP 완벽 가이드 | 웹은 어떻게 동작하는가](https://book.naver.com/bookdb/book_detail.nhn?bid=8509980) - 데이빗 고울리, 브라이언 토티, 마조리 세이어, 세일루 레디, 안슈 아가왈
