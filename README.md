@@ -142,6 +142,9 @@
 - [실전 리액트 프로그래밍(개정판) | 리액트 훅부터 Next.js까지](https://book.naver.com/bookdb/book_detail.nhn?bid=16391022) - 이재승
 - [Do it! 리액트 프로그래밍 정석 | 실리콘밸리 개발 방법으로 배우는](https://book.naver.com/bookdb/book_detail.nhn?bid=16243500) - 박호준
 
+#### 앵귤러
+- [Angular Essentials](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791186710340&orderClick=LAG&Kc=) - 이웅모
+
 ### 백엔드
 
 #### 자바
