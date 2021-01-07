@@ -118,6 +118,7 @@
 
 - [도메인 주도 설계 | 소프트웨어의 복잡성을 다루는 지혜](https://book.naver.com/bookdb/book_detail.nhn?bid=6680572) - 에릭 에반스
 - [도메인 주도 설계 핵심 | 핵심을 간추린 비즈니스 중심의 설계로 소프트웨어 개발 프로젝트 성공하기](https://book.naver.com/bookdb/book_detail.nhn?bid=12547690) - 반 버논
+- [DDD Start! 도메인 주도 설계 구현과 핵심 개념 익히기](https://book.naver.com/bookdb/book_detail.nhn?bid=10615650) - 최범균
 
 **[⬆ 맨 위로 이동](#목차)**
 
