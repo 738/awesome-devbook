@@ -38,19 +38,22 @@
   - [함수형 프로그래밍](#함수형-프로그래밍)
   - [도메인 주도 설계](#도메인-주도-설계)
 - [특정 기술에 대한 서적](#특정-기술에-대한-서적)
+  - [C언어](#c언어)
+  - [자바](#자바)
+  - [코틀린](#코틀린)
+  - [자바스크립트](#자바스크립트)
+  - [파이썬](#파이썬)
   - [프론트엔드](#프론트엔드)
   - [백엔드](#백엔드)
   - [데브옵스](#데브옵스)
   - [머신러닝](#머신러닝)
   - [안드로이드](#안드로이드)
   - [iOS](#iOS)
-  - [C언어](#c언어)
 - [컴퓨터과학](#컴퓨터과학)
   - [알고리즘](#알고리즘)
   - [컴퓨터구조](#컴퓨터구조)
   - [운영체제](#운영체제)
   - [네트워크](#네트워크)
-
 
 ## 행동양식에 대한 서적
 
@@ -133,14 +136,34 @@
 > 업무를 위해 어떤 프레임워크나 프로그래밍 언어 또는 특정 소프트웨어의 이용 방법을 급하게 알아야 할 때 꼭 필요하다. 당장의 업무에는 유용하지만 그 가치가 오래가지는 않는다.
 > 기술 서적은 당면한 업무와 관련된 것들에 대해 상세하고 심도 있는 기술 지식을 제공한다. 커리어의 다음 단계를 계획하는 데도 큰 도움이 된다.
 
-### 프론트엔드
+### C언어
 
-#### 자바스크립트
+- [윤성우의 열혈 C 프로그래밍](https://book.naver.com/bookdb/book_detail.nhn?bid=6393451) - 윤성우
+- [독하게 시작하는 C 프로그래밍 | 널널한 개발자의 C 언어 마스터클래스](https://book.naver.com/bookdb/book_detail.nhn?bid=9204167) - 최호성
+
+### 자바
+
+- [이펙티브 자바](https://book.naver.com/bookdb/book_detail.nhn?bid=14097515) - 조슈아 블로크
+- [모던 자바 인 액션 | 람다, 스트림, 함수형, 리액티브 프로그래밍으로 새로워진 자바 마스터하기](https://book.naver.com/bookdb/book_detail.nhn?bid=15261103) - 라울-게이브리얼 우르마, 마리오 푸스코, 앨런 마이크로프트
+
+### 코틀린
+
+- [코틀린 인 액션 | 코틀린 컴파일러 개발자가 직접 알려주는 코틀린 언어 핵심](https://book.naver.com/bookdb/book_detail.nhn?bid=12685155) - 드미트리 제메로프, 스베트라나 이사코바
+
+### 자바스크립트
 
 - [자바스크립트 완벽 가이드](https://book.naver.com/bookdb/book_detail.nhn?bid=10338797) - 데이비드 플래너건
 - [You don't know JS](https://book.naver.com/bookdb/book_detail.nhn?bid=12199050) - 카일 심슨
 - [코어 자바스크립트 | 핵심 개념과 동작 원리로 이해하는 자바스크립트 프로그래밍](https://book.naver.com/bookdb/book_detail.nhn?bid=15433261) - 정재남
 - [인사이드 자바스크립트 | 핵심 개념과 원리를 정확하게 jQuery Node.js 클로저의 개념까지, Inside JavaScript](https://book.naver.com/bookdb/book_detail.nhn?bid=7400243) - 송형주, 고현준
+
+### 파이썬
+
+- [파이썬 클린 코드 | 유지보수가 쉬운 파이썬 코드를 만드는 비결](https://book.naver.com/bookdb/book_detail.nhn?bid=14469064) - 마리아노 아나야
+- [슬기로운 파이썬 트릭 | 짧고 흥미로운 코드로 배우는 파이썬 실용 코딩](https://book.naver.com/bookdb/book_detail.nhn?bid=14459247) - 댄 베이더
+- [Effective Python 2nd 이펙티브 파이썬 : 파이썬 코딩의 기술 | 똑똑하게 코딩하는 법](https://book.naver.com/bookdb/book_detail.nhn?bid=16876960) - 브렛 슬라킨
+
+### 프론트엔드
 
 #### 리액트
 
@@ -159,15 +182,6 @@
 
 ### 백엔드
 
-#### 자바
-
-- [이펙티브 자바](https://book.naver.com/bookdb/book_detail.nhn?bid=14097515) - 조슈아 블로크
-- [모던 자바 인 액션 | 람다, 스트림, 함수형, 리액티브 프로그래밍으로 새로워진 자바 마스터하기](https://book.naver.com/bookdb/book_detail.nhn?bid=15261103) - 라울-게이브리얼 우르마, 마리오 푸스코, 앨런 마이크로프트
-
-#### 코틀린
-
-- [코틀린 인 액션 | 코틀린 컴파일러 개발자가 직접 알려주는 코틀린 언어 핵심](https://book.naver.com/bookdb/book_detail.nhn?bid=12685155) - 드미트리 제메로프, 스베트라나 이사코바
-
 #### 스프링
 
 - [토비의 스프링](https://book.naver.com/bookdb/book_detail.nhn?bid=7006516) - 이일민
@@ -175,13 +189,6 @@
 - [스프링 부트와 AWS로 혼자 구현하는 웹 서비스 | 인텔리제이, JPA, JUnit 테스트, 그레이들, 소셜 로그인, AWS 인프라로 무중단 배포까지](https://book.naver.com/bookdb/book_detail.nhn?bid=15871738) - 이동욱
 - [코드로 배우는 스프링 웹 프로젝트 | 현업 개발을 위한 단계별 실습서](https://book.naver.com/bookdb/book_detail.nhn?bid=13993776) - 구멍가게 코딩단
 - [스프링5 레시피 | 스프링 애플리케이션 개발에 유용한 161가지 문제 해결 기법](https://book.naver.com/bookdb/book_detail.nhn?bid=13911953) - 마틴 데니엄, 다니엘 루비오, 조시 롱
-- [스프링 인 액션(5판) | 스프링 5의 강력한 기능과 생산성을 활용한 웹 애플리케이션 개발](https://book.naver.com/bookdb/book_detail.nhn?bid=16348386) - 크레이그 월즈
-
-#### 파이썬
-
-- [파이썬 클린 코드 | 유지보수가 쉬운 파이썬 코드를 만드는 비결](https://book.naver.com/bookdb/book_detail.nhn?bid=14469064) - 마리아노 아나야
-- [슬기로운 파이썬 트릭 | 짧고 흥미로운 코드로 배우는 파이썬 실용 코딩](https://book.naver.com/bookdb/book_detail.nhn?bid=14459247) - 댄 베이더
-- [Effective Python 2nd 이펙티브 파이썬 : 파이썬 코딩의 기술 | 똑똑하게 코딩하는 법](https://book.naver.com/bookdb/book_detail.nhn?bid=16876960) - 브렛 슬라킨
 
 #### Node.js
 
@@ -215,10 +222,6 @@
 - [스위프트 프로그래밍 | 객체지향, 함수형, 프로토콜 지향 패러다임까지 한 번에!, Swift 5](https://book.naver.com/bookdb/book_detail.nhn?bid=15479573) - 야곰
 - [Do it! 스위프트로 아이폰 앱 만들기 입문](https://book.naver.com/bookdb/book_detail.nhn?bid=14427908) - 송호정, 이범근
 
-### C언어
-
-- [윤성우의 열혈 C 프로그래밍](https://book.naver.com/bookdb/book_detail.nhn?bid=6393451) - 윤성우
-- [독하게 시작하는 C 프로그래밍 | 널널한 개발자의 C 언어 마스터클래스](https://book.naver.com/bookdb/book_detail.nhn?bid=9204167) - 최호성
 
 **[⬆ 맨 위로 이동](#목차)**
 
