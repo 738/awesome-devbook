@@ -29,7 +29,7 @@
 - [행동양식에 대한 서적](#행동양식에-대한-서적)
   - [애자일 방법론](#애자일-방법론)
   - [소프트웨어 장인정신](#소프트웨어-장인정신)
-  - [기타](#기타)
+  - [행동양식 기타](#행동양식-기타)
 - [특정 개념에 대한 서적](#특정-개념에-대한-서적)
   - [디자인 패턴](#디자인-패턴)
   - [테스트 주도 개발](#테스트-주도-개발)
@@ -54,6 +54,9 @@
   - [컴퓨터구조](#컴퓨터구조)
   - [운영체제](#운영체제)
   - [네트워크](#네트워크)
+- [개발 관련 기타 서적](#개발-관련-기타-서적)
+  - [글쓰기](#글쓰기)
+  - [영어](#영어)
 
 ## 행동양식에 대한 서적
 
@@ -71,7 +74,7 @@
 - [소프트웨어 장인 | 프로페셔널리즘, 실용주의, 자부심](https://book.naver.com/bookdb/book_detail.nhn?bid=9585753) - 산드로 만쿠소
 - [소프트웨어 장인정신](https://book.naver.com/bookdb/book_detail.nhn?bid=117635) - Pete McBreen
 
-### 기타
+### 행동양식 기타
 
 - [실용주의 프로그래머](https://book.naver.com/bookdb/book_detail.nhn?bid=7467119) - 앤드류 헌트, 데이비드 토머스
 - [익스트림 프로그래밍](https://book.naver.com/bookdb/book_detail.nhn?bid=2497945) - 켄트 벡, 신시아 안드레스
@@ -82,7 +85,7 @@
 - [조엘 온 소프트웨어 | 유쾌한 오프라인 블로그](https://book.naver.com/bookdb/book_detail.nhn?bid=1528741) - 조엘 스폴스키
 - [맨먼스 미신 | 소프트웨어 공학에 관한 에세이](https://book.naver.com/bookdb/book_detail.nhn?bid=8826350) - 프레더릭 브룩스
 - [유지보수하기 어렵게 코딩하는 방법: 평생 개발자로 먹고 살 수 있다](https://book.naver.com/bookdb/book_detail.nhn?bid=7085402) - 로에디 그린
-- [IT 개발자의 영어 필살기 | 11가지 영문서 유형으로 공략하는 IT 업계 맞춤형 영어 학습법](https://book.naver.com/bookdb/book_detail.nhn?bid=15986525) - 니시노 류타로
+- [훌륭한 프로그래머 되는 법 | 프로젝트와 팀을 성공으로 이끄는 선배 개발자의 노하우](https://book.naver.com/bookdb/book_detail.nhn?bid=9899036) - 피트 구들리프
 
 **[⬆ 맨 위로 이동](#목차)**
 
@@ -252,6 +255,19 @@
 
 - [후니의 쉽게 쓴 시스코 네트워킹 | 시스코 전문가가 말하는 네트워크 따라잡기](https://book.naver.com/bookdb/book_detail.nhn?bid=6594286) - 진강훈
 - [모두의 네트워크 | 10일 만에 배우는 네트워크 기초](https://book.naver.com/bookdb/book_detail.nhn?bid=13735927) - 미즈구치 카츠야
+
+**[⬆ 맨 위로 이동](#목차)**
+
+
+## 개발 관련 기타 서적
+
+### 글쓰기
+
+- [개발자의 글쓰기 | 변수 네이밍부터 릴리스 노트, 장애 보고서, 기술 블로그까지, 프로그래머의 글쓰기 고민 끝!](https://book.naver.com/bookdb/book_detail.nhn?bid=15513595) - 김철수
+
+### 영어
+
+- [IT 개발자의 영어 필살기 | 11가지 영문서 유형으로 공략하는 IT 업계 맞춤형 영어 학습법](https://book.naver.com/bookdb/book_detail.nhn?bid=15986525) - 니시노 류타로
 
 **[⬆ 맨 위로 이동](#목차)**
 
