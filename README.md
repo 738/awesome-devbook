@@ -76,6 +76,7 @@
 - [조엘 온 소프트웨어 | 유쾌한 오프라인 블로그](https://book.naver.com/bookdb/book_detail.nhn?bid=1528741) - 조엘 스폴스키
 - [맨먼스 미신 | 소프트웨어 공학에 관한 에세이](https://book.naver.com/bookdb/book_detail.nhn?bid=8826350) - 프레더릭 브룩스
 - [유지보수하기 어렵게 코딩하는 방법: 평생 개발자로 먹고 살 수 있다](https://book.naver.com/bookdb/book_detail.nhn?bid=7085402) - 로에디 그린
+- [IT 개발자의 영어 필살기 | 11가지 영문서 유형으로 공략하는 IT 업계 맞춤형 영어 학습법](https://book.naver.com/bookdb/book_detail.nhn?bid=15986525) - 니시노 류타로
 
 **[⬆ 맨 위로 이동](#목차)**
 
