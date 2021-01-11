@@ -214,8 +214,7 @@
 
 - [Kubernetes in Action | 그림과 상세한 설명을 통한 쿠버네티스 완벽 이해](https://book.naver.com/bookdb/book_detail.nhn?bid=14301229) - 마르코 룩샤
 - [데브옵스 핸드북 | 세계 최고 수준의 기민성, 신뢰성, 안정성을 갖춘 기술조직의 비밀](https://book.naver.com/bookdb/book_detail.nhn?bid=13735219) - 진 킴, 제즈 험블, 패트릭 드부아, 존 윌리스
-
-* [Kafka Streams in Action | 카프카 스트림즈 API로 만드는 실시간 애플리케이션](https://book.naver.com/bookdb/book_detail.nhn?bid=15073655) - 윌리엄 베젝
+- [Kafka Streams in Action | 카프카 스트림즈 API로 만드는 실시간 애플리케이션](https://book.naver.com/bookdb/book_detail.nhn?bid=15073655) - 윌리엄 베젝
 
 ### 머신러닝
 
