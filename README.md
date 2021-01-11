@@ -200,6 +200,7 @@
 - [스프링 부트와 AWS로 혼자 구현하는 웹 서비스 | 인텔리제이, JPA, JUnit 테스트, 그레이들, 소셜 로그인, AWS 인프라로 무중단 배포까지](https://book.naver.com/bookdb/book_detail.nhn?bid=15871738) - 이동욱
 - [코드로 배우는 스프링 웹 프로젝트 | 현업 개발을 위한 단계별 실습서](https://book.naver.com/bookdb/book_detail.nhn?bid=13993776) - 구멍가게 코딩단
 - [스프링5 레시피 | 스프링 애플리케이션 개발에 유용한 161가지 문제 해결 기법](https://book.naver.com/bookdb/book_detail.nhn?bid=13911953) - 마틴 데니엄, 다니엘 루비오, 조시 롱
+- [스프링 인 액션(5판) | 스프링 5의 강력한 기능과 생산성을 활용한 웹 애플리케이션 개발](https://book.naver.com/bookdb/book_detail.nhn?bid=16348386) - 크레이그 월즈
 
 #### Node.js
 
