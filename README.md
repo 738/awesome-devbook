@@ -277,6 +277,7 @@
 - [코딩 인터뷰 완전 분석 | 189가지 프로그래밍 문제와 해법, 프로그래밍 인사이트](https://book.naver.com/bookdb/book_detail.nhn?bid=12327704) - 게일 라크만 맥도웰
 - [코딩 인터뷰 퀘스천 | 문제로 풀어보는 코딩인터뷰 가이드북](https://book.naver.com/bookdb/book_detail.nhn?bid=8552165) - Narasimha Karumanchi
 - [이것이 취업을 위한 코딩 테스트다 with 파이썬 | 취업과 이직을 결정하는 알고리즘 인터뷰 완벽 가이드, C/C++, 자바 코드 제공](https://book.naver.com/bookdb/book_detail.nhn?bid=16439154) - 나동빈
+- [프로그래밍 면접, 이렇게 준비한다](https://book.naver.com/bookdb/book_detail.nhn?bid=15064639) - 존 몽건
 
 ### 글쓰기
 
