@@ -166,6 +166,7 @@
 - [You don't know JS](https://book.naver.com/bookdb/book_detail.nhn?bid=12199050) - 카일 심슨
 - [코어 자바스크립트 | 핵심 개념과 동작 원리로 이해하는 자바스크립트 프로그래밍](https://book.naver.com/bookdb/book_detail.nhn?bid=15433261) - 정재남
 - [인사이드 자바스크립트 | 핵심 개념과 원리를 정확하게 jQuery Node.js 클로저의 개념까지, Inside JavaScript](https://book.naver.com/bookdb/book_detail.nhn?bid=7400243) - 송형주, 고현준
+- [자바스크립트 코딩의 기술 | 똑똑하게 코딩하는 법](https://book.naver.com/bookdb/book_detail.nhn?bid=15971893) - 조 모건
 
 ### 파이썬
 
@@ -224,6 +225,7 @@
 - [단단한 머신러닝(아이러브 인공지능 24) | 머신러닝 기본 개념을 제대로 정리한 인공지능 교과서](https://book.naver.com/bookdb/book_detail.nhn?bid=16265044) - 조우쯔화
 - [머신러닝 탐구생활 | Kaggle 우승작으로 배우는, 파이썬을 활용한 머신러닝 실전 예제 분석](https://book.naver.com/bookdb/book_detail.nhn?bid=13950520) - 정권우
 - [파이썬으로 배우는 딥러닝 교과서 | 이미지 인식 모델을 만들면서 익히는 딥러닝](https://book.naver.com/bookdb/book_detail.nhn?bid=16270422) - 이시카와 아키히코
+- [핸즈온 머신러닝 | 사이킷런과 텐서플로를 활용한 머신러닝, 딥러닝 실무](https://book.naver.com/bookdb/book_detail.nhn?bid=13541863) - 오렐리앙 제롱
 
 ### 안드로이드
 
