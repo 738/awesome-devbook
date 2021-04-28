@@ -120,6 +120,7 @@
 
 - [오브젝트 | 코드로 이해하는 객체지향 설계](https://book.naver.com/bookdb/book_detail.nhn?bid=15007773) - 조영호
 - [객체지향의 사실과 오해 | 역할, 책임, 협력 관점에서 본 객체지향](https://book.naver.com/bookdb/book_detail.nhn?bid=9145968) - 조영호
+- [엘레강트 오브젝트 | 새로운 관점에서 바라본 객체지향](https://book.naver.com/bookdb/book_detail.nhn?bid=17651286) - 예고르 부가옌코 
 
 ### 함수형 프로그래밍
 
