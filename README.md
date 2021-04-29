@@ -110,7 +110,7 @@
 
 ### 클린코드
 
-- [리팩토링 | 코드 품질을 개선하는 객체지향 사고법](https://book.naver.com/bookdb/book_detail.nhn?bid=7047630) - 마틴 파울러
+- (**절판**) [리팩토링 | 코드 품질을 개선하는 객체지향 사고법](https://book.naver.com/bookdb/book_detail.nhn?bid=7047630) - 마틴 파울러
 - [리팩토링 | 코드 구조를 체계적으로 개선하여 효율적인 리팩터링 구현하기, 2판](https://book.naver.com/bookdb/book_detail.nhn?bid=16311029) - 마틴 파울러
 - [클린코드 | 클린 코드, 애자일 소프트웨어 장인 정신](https://book.naver.com/bookdb/book_detail.nhn?bid=7390287) - 로버트 C. 마틴
 - [클린코더 | 단순 기술자에서 진정한 소프트웨어 장인이 되기까지](https://book.naver.com/bookdb/book_detail.nhn?bid=10771065) - 로버트 C. 마틴
