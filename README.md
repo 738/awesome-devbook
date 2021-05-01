@@ -40,6 +40,7 @@
 - [특정 기술에 대한 서적](#특정-기술에-대한-서적)
   - [C](#c)
   - [C++](#c-1)
+  - [Git](#git)
   - [자바](#자바)
   - [코틀린](#코틀린)
   - [자바스크립트](#자바스크립트)
@@ -70,6 +71,7 @@
 - [클린 소프트웨어 | 애자일 원칙과 패턴, 그리고 실천 방법](https://book.naver.com/bookdb/book_detail.nhn?bid=12035385) - 로버트 C. 마틴
 - [린 스타트업 | 지속적 혁신을 실현하는 창업의 과학](https://book.naver.com/bookdb/book_detail.nhn?bid=7044697) - 에릭 리스
 - [함께 자라기 | 애자일로 가는 길](https://book.naver.com/bookdb/book_detail.nhn?bid=14341885) - 김창준
+- [The Nature of Software Development | 간결하게, 가치 있게, 하나씩 완성하기](https://book.naver.com/bookdb/book_detail.nhn?bid=11477589) - 론 제프리스
 
 ### 소프트웨어 장인정신
 
@@ -121,6 +123,7 @@
 - [오브젝트 | 코드로 이해하는 객체지향 설계](https://book.naver.com/bookdb/book_detail.nhn?bid=15007773) - 조영호
 - [객체지향의 사실과 오해 | 역할, 책임, 협력 관점에서 본 객체지향](https://book.naver.com/bookdb/book_detail.nhn?bid=9145968) - 조영호
 - [엘레강트 오브젝트 | 새로운 관점에서 바라본 객체지향](https://book.naver.com/bookdb/book_detail.nhn?bid=17651286) - 예고르 부가옌코 
+- [루비로 배우는 객체지향 디자인 | 지속가능한 소프트웨어를 만드는 방법](https://book.naver.com/bookdb/book_detail.nhn?bid=8401423) - 샌디 메츠
 
 ### 함수형 프로그래밍
 
@@ -151,6 +154,9 @@
 
 - [윤성우 열혈 C++ 프로그래밍](https://book.naver.com/bookdb/book_detail.nhn?bid=6271757) - 윤성우
 - [이펙티브 모던 C++ | C++11과 C++14를 효과적으로 사용하는 42가지 방법](https://book.naver.com/bookdb/book_detail.nhn?bid=9566417) - 스콧 마이어스
+
+### Git
+- [프로 Git 2판 | 그림으로 이해하는 Git의 작동 원리와 사용법](https://book.naver.com/bookdb/book_detail.nhn?bid=10361593) - 스캇 샤콘, 벤 스트라웁
 
 ### 자바
 
