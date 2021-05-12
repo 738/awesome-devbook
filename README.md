@@ -174,6 +174,7 @@
 - [코어 자바스크립트 | 핵심 개념과 동작 원리로 이해하는 자바스크립트 프로그래밍](https://book.naver.com/bookdb/book_detail.nhn?bid=15433261) - 정재남
 - [인사이드 자바스크립트 | 핵심 개념과 원리를 정확하게 jQuery Node.js 클로저의 개념까지, Inside JavaScript](https://book.naver.com/bookdb/book_detail.nhn?bid=7400243) - 송형주, 고현준
 - [자바스크립트 코딩의 기술 | 똑똑하게 코딩하는 법](https://book.naver.com/bookdb/book_detail.nhn?bid=15971893) - 조 모건
+- [모던 자바스크립트 Deep Dive | 자바스크립트의 기본 개념과 동작 원리](https://book.naver.com/bookdb/book_detail.nhn?bid=16710547) - 이웅모
 
 ### 파이썬
 
