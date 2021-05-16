@@ -72,6 +72,7 @@
 - [린 스타트업 | 지속적 혁신을 실현하는 창업의 과학](https://book.naver.com/bookdb/book_detail.nhn?bid=7044697) - 에릭 리스
 - [함께 자라기 | 애자일로 가는 길](https://book.naver.com/bookdb/book_detail.nhn?bid=14341885) - 김창준
 - [The Nature of Software Development | 간결하게, 가치 있게, 하나씩 완성하기](https://book.naver.com/bookdb/book_detail.nhn?bid=11477589) - 론 제프리스
+- [카이젠 저니](https://book.naver.com/bookdb/book_detail.nhn?bid=15433929) -  이치타니 토시히로, 아라이 타케시
 
 ### 소프트웨어 장인정신
 
