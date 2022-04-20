@@ -103,6 +103,7 @@
 
 - [GoF의 디자인 패턴 | 재사용성을 지닌 객체지향 소프트웨어의 핵심요소](https://book.naver.com/bookdb/book_detail.nhn?bid=8942623) - 에릭 감마, 리처드 헬름, 랄프 존슨, 존 블리시디스
 - [Head First Design Patterns](https://book.naver.com/bookdb/book_detail.nhn?bid=1882446) - 에릭 프리먼
+- [헤드 퍼스트 디자인 패턴 개정판](https://book.naver.com/bookdb/book_detail.naver?bid=22236366) - 에릭 프리먼
 
 ### 테스트 주도 개발
 
