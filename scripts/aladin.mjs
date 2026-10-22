@@ -24,6 +24,7 @@ export async function fetchAladin(isbn, { retries = 2 } = {}) {
         publisher: decode(pick(/PublisherSearch=[^"]+">([^<]+)</) ?? "").trim(),
         published: pick(/"datePublished"\s*:\s*"([\d-]+)"/),
         outOfPrint: html.includes("절판되었습니다"),
+        cover: pick(/og:image" content="(https:\/\/image\.aladin\.co\.kr\/[^"]+)"/) ?? null,
       };
     } catch (e) {
       if (i >= retries) return { isbn, found: false, error: String(e) };

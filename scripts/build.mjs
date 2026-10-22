@@ -1,6 +1,6 @@
 // data/*.yml → README.md, docs/books.json
 // 사용: npm run build  (README 갱신) / npm run check  (README 가 데이터와 다르면 실패 — CI 용)
-import { readFileSync, writeFileSync, mkdirSync } from "node:fs";
+import { readFileSync, writeFileSync, mkdirSync, existsSync } from "node:fs";
 import { join } from "node:path";
 import { ROOT, loadData, aladinUrl, anchorer } from "./lib.mjs";
 
@@ -62,11 +62,14 @@ const readme = tpl
   .replace("{{TOC}}", toc.join("\n"))
   .replace("{{BODY}}", body.join("\n").trim());
 
+const coverPath = join(ROOT, "data/covers.json");
+const covers = existsSync(coverPath) ? JSON.parse(readFileSync(coverPath, "utf8")) : {};
+
 const json = JSON.stringify(
   {
     groups: tree.map((g) => ({ group: g.group, categories: g.categories.map((c) => ({ name: c.name, subs: c.subs.map((s) => s.name) })) })),
     tracks,
-    books: books.map((b) => ({ ...b, url: aladinUrl(b.isbn) })),
+    books: books.map((b) => ({ ...b, url: aladinUrl(b.isbn), cover: covers[b.isbn] ?? null })),
   },
   null,
   1,

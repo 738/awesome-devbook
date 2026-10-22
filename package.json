@@ -7,8 +7,13 @@
     "build": "node scripts/build.mjs",
     "check": "node scripts/build.mjs --check",
     "lookup": "node scripts/lookup.mjs",
-    "check-books": "node scripts/check-books.mjs"
+    "check-books": "node scripts/check-books.mjs",
+    "covers": "node scripts/covers.mjs"
   },
-  "engines": { "node": ">=20" },
-  "dependencies": { "yaml": "2.6.1" }
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "yaml": "2.6.1"
+  }
 }
