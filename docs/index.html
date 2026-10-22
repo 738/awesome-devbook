@@ -40,13 +40,15 @@ button{font:inherit;color:inherit}
 .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 
 /* 머리 */
-header.wrap{padding-block:40px 6px;display:grid;grid-template-columns:minmax(0,1fr) auto;gap:20px;align-items:end}
+header.wrap{padding-block:40px 18px}
 h1{font-family:var(--display);font-weight:700;font-size:clamp(32px,5.4vw,52px);line-height:1.1;margin:0;letter-spacing:-.015em}
 h1 em{font-style:normal;color:var(--accent)}
 .lead{margin:10px 0 0;color:var(--mute);max-width:46ch;text-wrap:pretty}
-.stats{display:flex;gap:22px;font-variant-numeric:tabular-nums;color:var(--mute);font-size:13px}
-.stats b{display:block;font-family:var(--display);font-size:26px;color:var(--ink);line-height:1.1}
-@media (max-width:760px){header.wrap{grid-template-columns:1fr;padding-top:28px}.stats{gap:18px}}
+.stats{display:flex;flex-wrap:wrap;align-items:center;gap:6px 0;margin-top:14px;font-size:13.5px;color:var(--mute);font-variant-numeric:tabular-nums}
+.stats span+span::before{content:"·";margin:0 10px;color:var(--line)}
+.stats b{color:var(--ink);font-weight:700}
+@media (max-width:760px){header.wrap{padding-top:28px}}
+@media (max-width:640px){.stats span:nth-child(4){display:none}}
 
 /* 도구 막대 */
 .bar{position:sticky;top:0;z-index:20;padding-block:10px 8px;background:color-mix(in srgb,var(--wall) 90%,transparent);
@@ -88,11 +90,11 @@ select{font:inherit;padding:10px 12px;border-radius:999px;border:1px solid var(-
   scrollbar-width:none;padding:12px 2px 6px;margin-inline:-2px}
 .tracks::-webkit-scrollbar{display:none}
 @media (max-width:640px){.tracks{grid-auto-columns:62%;margin-inline:-20px;padding-inline:20px;scroll-padding-inline:20px}}
-.track{all:unset;box-sizing:border-box;cursor:pointer;scroll-snap-align:start;display:grid;grid-template-rows:auto 1fr;gap:12px;
+.track{all:unset;box-sizing:border-box;cursor:pointer;scroll-snap-align:start;display:grid;grid-template-rows:auto 1fr;gap:22px;
   padding:14px 16px 16px;border-radius:14px;background:var(--paper);border:1px solid var(--line);transition:border-color .2s,translate .2s}
 .track:hover,.track:focus-visible{border-color:var(--accent);translate:0 -2px}
 .track:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
-.fan{position:relative;height:104px;margin-inline:-4px}
+.fan{position:relative;height:104px;margin:6px -4px 0}
 .fan img,.fan .ph{position:absolute;bottom:0;left:50%;width:56px;height:82px;object-fit:cover;border-radius:2px 3px 3px 2px;
   box-shadow:0 4px 10px rgba(40,25,10,.3);transform-origin:50% 130%;transition:transform .35s cubic-bezier(.2,.8,.2,1)}
 .fan .ph{font-size:8px;padding:5px}
@@ -235,8 +237,8 @@ footer p + p{margin-top:6px}
   <div>
     <h1>Awesome <em>Devbook</em></h1>
     <p class="lead">국내에 출간된 개발 도서를 책장처럼 둘러보세요.<br>표지를 누르면 책을 꺼내 자세히 볼 수 있어요.</p>
+    <p class="stats" id="stats"></p>
   </div>
-  <div class="stats" id="stats"></div>
 </header>
 
 <div class="bar" id="bar"><div class="wrap">
@@ -298,8 +300,8 @@ footer p + p{margin-top:6px}
   const state = { q: "", year: 0, hideOop: false, track: null };
   const slug = (name) => "s-" + encodeURIComponent(name).replace(/%/g, "");
 
-  $("#stats").innerHTML = `<span><b>${books.length}</b>권</span><span><b>${cats.length}</b>개 선반</span>` +
-    `<span><b>${books.filter((b) => +b.published.slice(0, 4) >= thisYear - 2).length}</b>최근 3년 출간</span>`;
+  $("#stats").innerHTML = `<span>책 <b>${books.length}</b>권</span><span>선반 <b>${cats.length}</b>칸</span>` +
+    `<span>최근 3년 신간 <b>${books.filter((b) => +b.published.slice(0, 4) >= thisYear - 2).length}</b>권</span><span>매주 절판 점검</span>`;
 
   // 표지가 없을 때: 제목으로 만든 천 장정 표지
   const hue = (s) => [...s].reduce((h, ch) => (h * 31 + ch.charCodeAt(0)) % 360, 7);
