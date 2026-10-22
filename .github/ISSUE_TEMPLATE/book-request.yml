@@ -1,0 +1,28 @@
+name: 📗 책 추천
+description: 리스트에 추가하면 좋을 책을 알려주세요. 코드를 몰라도 괜찮아요.
+title: "[책 추천] "
+labels: ["book-request"]
+body:
+  - type: input
+    id: isbn
+    attributes:
+      label: ISBN-13
+      description: 책 뒷표지나 서점 상세 페이지에 있는 978 또는 979로 시작하는 13자리 숫자
+      placeholder: "9791158391409"
+    validations:
+      required: true
+  - type: input
+    id: category
+    attributes:
+      label: 분야
+      description: README 목차의 분야 이름. 맞는 분야가 없으면 새 분야를 제안해 주세요.
+      placeholder: 객체지향
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: 추천 이유
+      description: 어떤 개발자에게, 왜 도움이 되는 책인지 한두 줄로 적어 주세요.
+    validations:
+      required: true
