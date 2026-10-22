@@ -1,0 +1,17 @@
+name: CI
+on:
+  pull_request:
+  push:
+    branches: [master]
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      # 데이터 검증(ISBN 체크섬·중복·카테고리) + README/books.json 이 데이터와 일치하는지
+      - run: npm run check

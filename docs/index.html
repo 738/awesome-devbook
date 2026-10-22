@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Awesome Devbook · 국내 개발 도서 리스트</title>
+<meta name="description" content="국내에 출간된 개발 도서를 분야·출간연도·절판 여부로 찾아보세요. ISBN으로 관리되고 매주 자동 점검됩니다.">
+<meta property="og:title" content="Awesome Devbook · 국내 개발 도서 리스트">
+<meta property="og:description" content="국내에 출간된 개발 도서를 분야·출간연도·절판 여부로 찾아보세요.">
+<meta property="og:image" content="https://raw.githubusercontent.com/738/awesome-devbook/master/awesome-devbook.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@700&family=IBM+Plex+Sans+KR:wght@400;500;700&display=swap">
+<style>
+/* 레이아웃: 왼쪽 서가(분야 목록) + 오른쪽 책장(결과). 좁은 화면에선 분야가 가로 칩으로 접힌다. */
+:root{
+  --paper:#f7f5f0; --card:#fffefb; --ink:#23201c; --mute:#6f6a62; --line:#e3ded4; --accent:#c8392b; --accent-ink:#fff; --chip:#efebe3;
+  --display:"Gowun Batang",Georgia,serif; --body:"IBM Plex Sans KR",-apple-system,"Apple SD Gothic Neo","Malgun Gothic",sans-serif;
+}
+@media (prefers-color-scheme:dark){:root{--paper:#191816;--card:#22201d;--ink:#ece8e1;--mute:#a19b91;--line:#36332e;--accent:#e2604f;--accent-ink:#1a1310;--chip:#2c2925;color-scheme:dark}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font:15px/1.6 var(--body);word-break:keep-all}
+a{color:inherit}
+header{padding:40px 20px 24px;max-width:1120px;margin:0 auto}
+h1{font-family:var(--display);font-size:clamp(30px,5vw,44px);margin:0;line-height:1.2;letter-spacing:-.01em}
+h1 span{color:var(--accent)}
+.lead{color:var(--mute);margin:8px 0 0}
+.stats{margin-top:14px;display:flex;flex-wrap:wrap;gap:8px 18px;font-size:14px;color:var(--mute);font-variant-numeric:tabular-nums}
+.stats b{color:var(--ink)}
+.bar{position:sticky;top:0;z-index:5;background:color-mix(in srgb,var(--paper) 92%,transparent);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+.bar-in{max-width:1120px;margin:0 auto;padding:12px 20px;display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+#q{flex:1 1 260px;min-width:0;font:inherit;padding:11px 14px;border-radius:10px;border:1px solid var(--line);background:var(--card);color:var(--ink)}
+#q:focus,select:focus,button:focus-visible,input:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
+select{font:inherit;padding:10px;border-radius:10px;border:1px solid var(--line);background:var(--card);color:var(--ink)}
+label.tog{display:flex;align-items:center;gap:6px;font-size:14px;color:var(--mute);cursor:pointer}
+main{max-width:1120px;margin:0 auto;padding:20px;display:grid;grid-template-columns:220px minmax(0,1fr);gap:28px}
+nav{position:sticky;top:76px;align-self:start;max-height:calc(100vh - 96px);overflow:auto;font-size:14px}
+nav h3{font-size:12px;letter-spacing:.08em;color:var(--mute);margin:16px 0 6px;font-weight:700}
+nav h3:first-child{margin-top:0}
+nav button{display:flex;justify-content:space-between;width:100%;text-align:left;border:0;background:none;color:var(--ink);font:inherit;padding:5px 8px;border-radius:7px;cursor:pointer}
+nav button:hover{background:var(--chip)}
+nav button[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink)}
+nav button small{color:inherit;opacity:.65;font-variant-numeric:tabular-nums}
+.tracks{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:12px;margin-bottom:28px}
+.track{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px}
+.track b{font-family:var(--display);font-size:17px}
+.track p{margin:4px 0 8px;color:var(--mute);font-size:13px}
+.track ol{margin:0;padding-left:18px;font-size:14px}
+.track li{margin:2px 0}
+section h2{font-family:var(--display);font-size:22px;margin:26px 0 10px;display:flex;align-items:baseline;gap:8px}
+section h2 small{font-family:var(--body);font-size:13px;color:var(--mute);font-weight:400}
+section:first-of-type h2{margin-top:0}
+.list{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:10px}
+.book{display:flex;flex-direction:column;gap:4px;padding:14px 16px;background:var(--card);border:1px solid var(--line);border-radius:12px;text-decoration:none;position:relative;transition:border-color .15s,transform .15s}
+.book:hover{border-color:var(--accent);transform:translateY(-1px)}
+.book .t{font-weight:700;line-height:1.4}
+.book .s{color:var(--mute);font-size:13px;line-height:1.45;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.book .m{margin-top:auto;padding-top:6px;font-size:13px;color:var(--mute);display:flex;flex-wrap:wrap;gap:2px 10px}
+.tag{font-size:11px;font-weight:700;padding:1px 7px;border-radius:99px;align-self:flex-start}
+.tag.oop{background:var(--chip);color:var(--mute)}
+.tag.new{background:color-mix(in srgb,var(--accent) 16%,transparent);color:var(--accent)}
+.empty{padding:40px 0;color:var(--mute);text-align:center}
+footer{max-width:1120px;margin:0 auto;padding:32px 20px 48px;color:var(--mute);font-size:13px;border-top:1px solid var(--line)}
+@media (max-width:760px){
+  main{grid-template-columns:1fr;gap:12px}
+  nav{position:static;max-height:none;display:flex;gap:6px;overflow-x:auto;padding-bottom:6px}
+  nav h3{display:none}
+  nav button{width:auto;white-space:nowrap;background:var(--chip);gap:6px}
+}
+@media (prefers-reduced-motion:reduce){.book{transition:none}}
+</style>
+</head>
+<body>
+<header>
+  <h1>Awesome <span>Devbook</span></h1>
+  <p class="lead">국내에 출간된 개발 도서 리스트. 모든 책은 ISBN으로 관리되고 매주 자동으로 점검합니다.</p>
+  <div class="stats" id="stats"></div>
+</header>
+<div class="bar"><div class="bar-in">
+  <input id="q" type="search" placeholder="제목, 저자, 출판사로 찾기" aria-label="책 검색" autocomplete="off">
+  <select id="year" aria-label="출간연도">
+    <option value="0">모든 연도</option><option value="2024">2024년 이후</option><option value="2020">2020년 이후</option><option value="2015">2015년 이후</option>
+  </select>
+  <label class="tog"><input type="checkbox" id="hideOop"> 절판 숨기기</label>
+</div></div>
+<main>
+  <nav id="nav" aria-label="분야"></nav>
+  <div id="out"><p class="empty">책 목록을 불러오는 중…</p></div>
+</main>
+<footer>
+  데이터 원본은 <a href="https://github.com/738/awesome-devbook/blob/master/data/books.yml">data/books.yml</a> 입니다.
+  책 추천은 <a href="https://github.com/738/awesome-devbook/issues/new?template=book-request.yml">이슈</a>나 PR로 남겨 주세요. 책 링크는 알라딘 상품 페이지로 연결됩니다.
+</footer>
+<script>
+(async () => {
+  const $ = (id) => document.getElementById(id);
+  const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  let data;
+  try { data = await (await fetch("books.json", { cache: "no-store" })).json(); }
+  catch { $("out").innerHTML = '<p class="empty">책 목록을 불러오지 못했어요. 잠시 뒤 새로고침해 주세요.</p>'; return; }
+  const { groups, tracks, books } = data;
+  const byIsbn = new Map(books.map((b) => [b.isbn, b]));
+  const thisYear = new Date().getFullYear();
+  const top = (c) => c.split("/")[0];
+  const count = (name) => books.filter((b) => top(b.category) === name).length;
+  const state = { cat: location.hash ? decodeURIComponent(location.hash.slice(1)) : "", q: "", year: 0, hideOop: false };
+
+  $("stats").innerHTML = `<span><b>${books.length}</b>권</span><span><b>${groups.reduce((n, g) => n + g.categories.length, 0)}</b>개 분야</span>` +
+    `<span>${thisYear - 3}년 이후 출간 <b>${books.filter((b) => +b.published.slice(0, 4) >= thisYear - 3).length}</b>권</span>` +
+    `<span>절판 <b>${books.filter((b) => b.out_of_print).length}</b>권</span>`;
+
+  $("nav").innerHTML = `<button data-cat="" aria-pressed="false">전체 <small>${books.length}</small></button>` +
+    groups.map((g) => `<h3>${esc(g.group.replace(/에 대한 서적| 서적/g, ""))}</h3>` +
+      g.categories.map((c) => `<button data-cat="${esc(c.name)}" aria-pressed="false">${esc(c.name)} <small>${count(c.name)}</small></button>`).join("")).join("");
+  $("nav").addEventListener("click", (e) => {
+    const b = e.target.closest("button"); if (!b) return;
+    state.cat = b.dataset.cat; history.replaceState(null, "", state.cat ? "#" + encodeURIComponent(state.cat) : location.pathname);
+    render(); window.scrollTo({ top: $("out").offsetTop - 80 });
+  });
+  $("q").addEventListener("input", (e) => { state.q = e.target.value.trim().toLowerCase(); render(); });
+  $("year").addEventListener("change", (e) => { state.year = +e.target.value; render(); });
+  $("hideOop").addEventListener("change", (e) => { state.hideOop = e.target.checked; render(); });
+
+  const card = (b) => {
+    const year = +b.published.slice(0, 4);
+    const tag = b.out_of_print ? '<span class="tag oop">절판</span>' : year >= thisYear - 1 ? '<span class="tag new">신간</span>' : "";
+    return `<a class="book" href="${esc(b.url)}" target="_blank" rel="noopener">${tag}<span class="t">${esc(b.title)}</span>` +
+      (b.subtitle ? `<span class="s">${esc(b.subtitle)}</span>` : "") +
+      `<span class="m"><span>${esc(b.authors.join(", "))}</span><span>${esc(b.publisher)} · ${year}</span></span></a>`;
+  };
+
+  function render() {
+    for (const b of $("nav").querySelectorAll("button")) b.setAttribute("aria-pressed", b.dataset.cat === state.cat);
+    const match = (b) => (!state.q || [b.title, b.subtitle, b.authors.join(" "), b.publisher, b.category].join(" ").toLowerCase().includes(state.q))
+      && (!state.year || +b.published.slice(0, 4) >= state.year) && (!state.hideOop || !b.out_of_print);
+    const showTracks = !state.cat && !state.q && !state.year && !state.hideOop;
+    let html = showTracks ? `<div class="tracks">${tracks.map((t) => `<div class="track"><b>${esc(t.name)}</b><p>${esc(t.description)}</p><ol>${t.books.map((i) => { const b = byIsbn.get(String(i)); return `<li><a href="${esc(b.url)}" target="_blank" rel="noopener">${esc(b.title)}</a></li>`; }).join("")}</ol></div>`).join("")}</div>` : "";
+    let shown = 0;
+    for (const g of groups) for (const c of g.categories) {
+      if (state.cat && state.cat !== c.name) continue;
+      const list = books.filter((b) => top(b.category) === c.name && match(b));
+      if (!list.length) continue;
+      shown += list.length;
+      html += `<section><h2>${esc(c.name)} <small>${list.length}권</small></h2><div class="list">${list.map(card).join("")}</div></section>`;
+    }
+    $("out").innerHTML = shown ? html : html + '<p class="empty">조건에 맞는 책이 없어요. 검색어나 필터를 바꿔 보세요.</p>';
+  }
+  render();
+})();
+</script>
+</body>
+</html>

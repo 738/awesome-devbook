@@ -1,0 +1,33 @@
+name: 주간 도서 점검
+on:
+  schedule:
+    - cron: "0 0 * * 1" # 매주 월요일 09:00 KST
+  workflow_dispatch:
+permissions:
+  contents: write
+  pull-requests: write
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - id: books
+        run: npm run check-books -- --apply
+      - run: npm run build
+      # 절판 상태가 바뀌면 PR 로 올린다. 사라진 책은 사람이 판단하도록 PR 본문에만 적는다.
+      - if: steps.books.outputs.changed == 'true'
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: bot/weekly-book-check
+          commit-message: "chore: 주간 도서 점검 — 절판 상태 갱신"
+          title: "주간 도서 점검: 절판 상태 변경"
+          body-path: .book-check-report.md
+          add-paths: |
+            data/books.yml
+            README.md
+            docs/books.json
