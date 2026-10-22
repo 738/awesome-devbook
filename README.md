@@ -19,13 +19,23 @@
 	</a>
 </p>
 
+<h3 align="center">
+	<a href="https://738.github.io/awesome-devbook/">📚 웹 책장에서 표지로 둘러보기 →</a>
+</h3>
+
+<p align="center">
+	<a href="https://738.github.io/awesome-devbook/">
+		<img src="docs/assets/preview.jpg" alt="Awesome Devbook 웹 책장 — 분야별 선반에 실제 표지가 진열된 화면" width="760" />
+	</a>
+	<br>
+	<sub>분야별 선반 · 목적별 추천 경로 · 검색과 필터 · 표지를 누르면 상세 정보</sub>
+</p>
+
 ## 개요
 
 📖 국내에 출간된 개발 도서 리스트입니다. 모든 책은 ISBN으로 관리되고, 링크·절판 여부는 매주 자동으로 확인합니다.
 
 📚 **163권** · 37개 분야 · 2023년 이후 출간 40권 · 절판 표기 20권
-
-🔎 **[웹에서 검색·필터하기](https://738.github.io/awesome-devbook/)** — 분야, 출간연도, 절판 여부로 걸러 볼 수 있어요.
 
 > 분류 설명 인용문은 <소프트웨어 장인>에서 발췌했습니다.
 
