@@ -18,6 +18,7 @@ jobs:
       - run: npm ci
       - id: books
         run: npm run check-books -- --apply
+      - run: npm run covers
       - run: npm run build
       # 절판 상태가 바뀌면 PR 로 올린다. 사라진 책은 사람이 판단하도록 PR 본문에만 적는다.
       - if: steps.books.outputs.changed == 'true'
@@ -29,5 +30,6 @@ jobs:
           body-path: .book-check-report.md
           add-paths: |
             data/books.yml
+            data/covers.json
             README.md
             docs/books.json

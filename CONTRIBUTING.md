@@ -19,7 +19,7 @@ npm run lookup -- 9791158391409      # 알라딘에서 책 정보를 읽어 book
    - 분야 이름은 `data/categories.yml` 에 있는 이름을 씁니다. 하위 분류는 `프론트엔드/리액트` 처럼 적습니다.
    - 맞는 분야가 없다면 `data/categories.yml` 에 새 분야를 추가해 주세요. (목차는 2단계까지만)
 2. 제목·부제를 표지 표기대로 다듬습니다. 판매용 문구(수상 내역, "개정판" 같은 표기)는 부제에서 빼 주세요.
-3. `npm run build` 로 README.md 와 docs/books.json 을 다시 만듭니다.
+3. `npm run covers` 로 표지 주소를 채우고, `npm run build` 로 README.md 와 docs/books.json 을 다시 만듭니다.
 4. 세 파일을 함께 커밋하고 Pull Request 를 생성합니다.
 
 ## 원칙

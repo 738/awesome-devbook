@@ -247,7 +247,8 @@
    "published": "2020-12-04",
    "isbn": "9788966262861",
    "category": "애자일 방법론",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966262861"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966262861",
+   "cover": "https://image.aladin.co.kr/product/25684/50/cover500/8966262864_1.jpg"
   },
   {
    "title": "클린 소프트웨어",
@@ -259,7 +260,8 @@
    "published": "2017-05-15",
    "isbn": "9791185890852",
    "category": "애자일 방법론",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791185890852"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791185890852",
+   "cover": "https://image.aladin.co.kr/product/10885/61/cover500/k712531164_1.jpg"
   },
   {
    "title": "린 스타트업",
@@ -271,7 +273,8 @@
    "published": "2012-11-09",
    "isbn": "9788966260577",
    "category": "애자일 방법론",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966260577"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966260577",
+   "cover": "https://image.aladin.co.kr/product/2064/86/cover500/8966260578_1.jpg"
   },
   {
    "title": "함께 자라기",
@@ -283,7 +286,8 @@
    "published": "2018-11-30",
    "isbn": "9788966262335",
    "category": "애자일 방법론",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966262335"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966262335",
+   "cover": "https://image.aladin.co.kr/product/17597/74/cover500/8966262333_1.jpg"
   },
   {
    "title": "The Nature of Software Development",
@@ -296,7 +300,8 @@
    "isbn": "9788968484650",
    "category": "애자일 방법론",
    "out_of_print": true,
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788968484650"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788968484650",
+   "cover": "https://image.aladin.co.kr/product/9918/37/cover500/8968484651_1.jpg"
   },
   {
    "title": "카이젠 저니",
@@ -309,7 +314,8 @@
    "isbn": "9791188621767",
    "category": "애자일 방법론",
    "out_of_print": true,
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791188621767"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791188621767",
+   "cover": "https://image.aladin.co.kr/product/20653/18/cover500/k412636263_1.jpg"
   },
   {
    "title": "소프트웨어 장인",
@@ -321,7 +327,8 @@
    "published": "2015-09-25",
    "isbn": "9791186659489",
    "category": "소프트웨어 장인정신",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791186659489"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791186659489",
+   "cover": "https://image.aladin.co.kr/product/6692/58/cover500/k162434762_1.jpg"
   },
   {
    "title": "소프트웨어 장인정신",
@@ -333,7 +340,8 @@
    "isbn": "9788945071415",
    "category": "소프트웨어 장인정신",
    "out_of_print": true,
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788945071415"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788945071415",
+   "cover": "https://image.aladin.co.kr/product/39/37/cover500/8945071415_1.gif"
   },
   {
    "title": "실용주의 프로그래머 20주년 기념판",
@@ -345,7 +353,8 @@
    "published": "2022-02-24",
    "isbn": "9788966263363",
    "category": "행동양식 기타",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966263363"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966263363",
+   "cover": "https://image.aladin.co.kr/product/28878/64/cover500/8966263364_1.jpg"
   },
   {
    "title": "익스트림 프로그래밍",
@@ -357,7 +366,8 @@
    "published": "2006-08-01",
    "isbn": "9788991268104",
    "category": "행동양식 기타",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788991268104"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788991268104",
+   "cover": "https://image.aladin.co.kr/product/67/13/cover500/8991268102_1.jpg"
   },
   {
    "title": "해커와 화가",
@@ -368,7 +378,8 @@
    "published": "2014-01-06",
    "isbn": "9788968480713",
    "category": "행동양식 기타",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788968480713"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788968480713",
+   "cover": "https://image.aladin.co.kr/product/3447/15/cover500/8968480710_1.jpg"
   },
   {
    "title": "CODE 코드",
@@ -380,7 +391,8 @@
    "published": "2023-12-22",
    "isbn": "9788966264285",
    "category": "행동양식 기타",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966264285"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966264285",
+   "cover": "https://image.aladin.co.kr/product/33030/17/cover500/896626428x_2.jpg"
   },
   {
    "title": "피플웨어",
@@ -392,7 +404,8 @@
    "published": "2014-07-15",
    "isbn": "9788966261109",
    "category": "행동양식 기타",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966261109"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966261109",
+   "cover": "https://image.aladin.co.kr/product/4313/29/cover500/8966261108_2.jpg"
   },
   {
    "title": "생각하는 프로그래밍",
@@ -404,7 +417,8 @@
    "published": "2013-12-24",
    "isbn": "9788966260997",
    "category": "행동양식 기타",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966260997"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966260997",
+   "cover": "https://image.aladin.co.kr/product/3422/90/cover500/8966260993_1.jpg"
   },
   {
    "title": "조엘 온 소프트웨어",
@@ -416,7 +430,8 @@
    "published": "2005-04-07",
    "isbn": "9788989975588",
    "category": "행동양식 기타",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788989975588"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788989975588",
+   "cover": "https://image.aladin.co.kr/product/55/31/cover500/8989975581_2.jpg"
   },
   {
    "title": "맨먼스 미신",
@@ -428,7 +443,8 @@
    "published": "2015-03-23",
    "isbn": "9788966261321",
    "category": "행동양식 기타",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966261321"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966261321",
+   "cover": "https://image.aladin.co.kr/product/5412/44/cover500/8966261329_1.jpg"
   },
   {
    "title": "더 나은 프로그래머 되는 법",
@@ -440,7 +456,8 @@
    "published": "2024-04-30",
    "isbn": "9791169212335",
    "category": "행동양식 기타",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791169212335"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791169212335",
+   "cover": "https://image.aladin.co.kr/product/33837/63/cover500/k192930998_1.jpg"
   },
   {
    "title": "구글 엔지니어는 이렇게 일한다",
@@ -454,7 +471,8 @@
    "published": "2022-05-10",
    "isbn": "9791162245620",
    "category": "행동양식 기타",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791162245620"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791162245620",
+   "cover": "https://image.aladin.co.kr/product/29414/60/cover500/k562837320_1.jpg"
   },
   {
    "title": "프로그래머의 뇌",
@@ -466,7 +484,8 @@
    "published": "2022-01-12",
    "isbn": "9791191600650",
    "category": "행동양식 기타",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791191600650"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791191600650",
+   "cover": "https://image.aladin.co.kr/product/28596/70/cover500/k832835755_2.jpg"
   },
   {
    "title": "좋은 코드, 나쁜 코드",
@@ -478,7 +497,8 @@
    "published": "2022-05-26",
    "isbn": "9791191600896",
    "category": "행동양식 기타",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791191600896"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791191600896",
+   "cover": "https://image.aladin.co.kr/product/29464/92/cover500/k422837236_1.jpg"
   },
   {
    "title": "읽기 좋은 코드가 좋은 코드다",
@@ -491,7 +511,8 @@
    "published": "2012-04-10",
    "isbn": "9788979149142",
    "category": "행동양식 기타",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788979149142"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788979149142",
+   "cover": "https://image.aladin.co.kr/product/1610/82/cover500/897914914x_1.jpg"
   },
   {
    "title": "팀 토폴로지",
@@ -504,7 +525,8 @@
    "published": "2020-12-30",
    "isbn": "9791161754802",
    "category": "행동양식 기타",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791161754802"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791161754802",
+   "cover": "https://image.aladin.co.kr/product/25890/64/cover500/k112737568_1.jpg"
   },
   {
    "title": "개발 7년차, 매니저 1일차",
@@ -516,7 +538,8 @@
    "published": "2020-02-04",
    "isbn": "9791162242551",
    "category": "커리어와 리더십",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791162242551"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791162242551",
+   "cover": "https://image.aladin.co.kr/product/23096/5/cover500/k692637692_1.jpg"
   },
   {
    "title": "스태프 엔지니어",
@@ -528,7 +551,8 @@
    "published": "2022-09-12",
    "isbn": "9791140701254",
    "category": "커리어와 리더십",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791140701254"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791140701254",
+   "cover": "https://image.aladin.co.kr/product/30141/15/cover500/k632839289_1.jpg"
   },
   {
    "title": "프로그래머의 길, 멘토에게 묻다",
@@ -540,7 +564,8 @@
    "published": "2010-07-26",
    "isbn": "9788991268807",
    "category": "커리어와 리더십",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788991268807"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788991268807",
+   "cover": "https://image.aladin.co.kr/product/741/54/cover500/8991268803_1.jpg"
   },
   {
    "title": "GoF의 디자인 패턴",
@@ -555,7 +580,8 @@
    "published": "2015-03-26",
    "isbn": "9791195444953",
    "category": "디자인 패턴",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791195444953"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791195444953",
+   "cover": "https://image.aladin.co.kr/product/5605/15/cover500/6000835492_1.jpg"
   },
   {
    "title": "헤드 퍼스트 디자인 패턴 개정판",
@@ -566,7 +592,8 @@
    "published": "2022-03-16",
    "isbn": "9791162245262",
    "category": "디자인 패턴",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791162245262"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791162245262",
+   "cover": "https://image.aladin.co.kr/product/29089/24/cover500/k212837767_1.jpg"
   },
   {
    "title": "테스트 주도 개발",
@@ -577,7 +604,8 @@
    "published": "2014-02-15",
    "isbn": "9788966261024",
    "category": "테스트 주도 개발",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966261024"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966261024",
+   "cover": "https://image.aladin.co.kr/product/3746/97/cover500/8966261027_1.jpg"
   },
   {
    "title": "테스트 주도 개발로 배우는 객체 지향 설계와 실천",
@@ -589,7 +617,8 @@
    "published": "2013-06-20",
    "isbn": "9788966260836",
    "category": "테스트 주도 개발",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966260836"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966260836",
+   "cover": "https://image.aladin.co.kr/product/2749/1/cover500/8966260837_1.jpg"
   },
   {
    "title": "클린 코드를 위한 테스트 주도 개발",
@@ -602,7 +631,8 @@
    "isbn": "9788994774916",
    "category": "테스트 주도 개발",
    "out_of_print": true,
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788994774916"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788994774916",
+   "cover": "https://image.aladin.co.kr/product/5380/98/cover500/8994774912_1.jpg"
   },
   {
    "title": "테스트 주도 개발",
@@ -615,7 +645,8 @@
    "isbn": "9788979147261",
    "category": "테스트 주도 개발",
    "out_of_print": true,
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788979147261"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788979147261",
+   "cover": "https://image.aladin.co.kr/product/716/89/cover500/8979147260_1.jpg"
   },
   {
    "title": "단위 테스트",
@@ -627,7 +658,8 @@
    "published": "2021-10-20",
    "isbn": "9791161755748",
    "category": "테스트 주도 개발",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791161755748"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791161755748",
+   "cover": "https://image.aladin.co.kr/product/28087/6/cover500/k942734842_1.jpg"
   },
   {
    "title": "테스트 주도 개발 시작하기",
@@ -638,7 +670,8 @@
    "published": "2020-02-18",
    "isbn": "9788980783052",
    "category": "테스트 주도 개발",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788980783052"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788980783052",
+   "cover": "https://image.aladin.co.kr/product/23361/46/cover500/8980783051_2.jpg"
   },
   {
    "title": "리팩터링 2판",
@@ -650,7 +683,8 @@
    "published": "2020-04-01",
    "isbn": "9791162242742",
    "category": "클린코드",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791162242742"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791162242742",
+   "cover": "https://image.aladin.co.kr/product/23618/61/cover500/k932638523_1.jpg"
   },
   {
    "title": "클린 코드 2판",
@@ -662,7 +696,8 @@
    "published": "2026-09-17",
    "isbn": "9788966265527",
    "category": "클린코드",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966265527"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966265527",
+   "cover": "https://image.aladin.co.kr/product/40175/21/cover500/8966265529_1.jpg"
   },
   {
    "title": "클린코더",
@@ -674,7 +709,8 @@
    "published": "2016-07-20",
    "isbn": "9788960778818",
    "category": "클린코드",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788960778818"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788960778818",
+   "cover": "https://image.aladin.co.kr/product/8661/93/cover500/8960778818_1.jpg"
   },
   {
    "title": "클린 아키텍처",
@@ -686,7 +722,8 @@
    "published": "2019-08-20",
    "isbn": "9788966262472",
    "category": "클린코드",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966262472"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966262472",
+   "cover": "https://image.aladin.co.kr/product/20232/24/cover500/8966262473_1.jpg"
   },
   {
    "title": "오브젝트",
@@ -698,7 +735,8 @@
    "published": "2019-06-17",
    "isbn": "9791158391409",
    "category": "객체지향",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791158391409"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791158391409",
+   "cover": "https://image.aladin.co.kr/product/19368/10/cover500/k972635015_1.jpg"
   },
   {
    "title": "객체지향의 사실과 오해",
@@ -710,7 +748,8 @@
    "published": "2015-06-17",
    "isbn": "9788998139766",
    "category": "객체지향",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788998139766"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788998139766",
+   "cover": "https://image.aladin.co.kr/product/6055/2/cover500/8998139766_1.jpg"
   },
   {
    "title": "엘레강트 오브젝트",
@@ -722,7 +761,8 @@
    "published": "2021-01-04",
    "isbn": "9791187497219",
    "category": "객체지향",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791187497219"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791187497219",
+   "cover": "https://image.aladin.co.kr/product/25837/40/cover500/k762736538_1.jpg"
   },
   {
    "title": "루비로 배우는 객체지향 디자인",
@@ -734,7 +774,8 @@
    "published": "2014-11-28",
    "isbn": "9788966261239",
    "category": "객체지향",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966261239"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966261239",
+   "cover": "https://image.aladin.co.kr/product/4931/77/cover500/896626123x_1.jpg"
   },
   {
    "title": "스칼라로 배우는 함수형 프로그래밍",
@@ -747,7 +788,8 @@
    "isbn": "9791185890180",
    "category": "함수형 프로그래밍",
    "out_of_print": true,
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791185890180"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791185890180",
+   "cover": "https://image.aladin.co.kr/product/5419/95/cover500/6000817476_1.jpg"
   },
   {
    "title": "함수형 자바스크립트 프로그래밍",
@@ -758,7 +800,8 @@
    "published": "2017-11-22",
    "isbn": "9788966262120",
    "category": "함수형 프로그래밍",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966262120"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966262120",
+   "cover": "https://image.aladin.co.kr/product/12371/58/cover500/8966262120_1.jpg"
   },
   {
    "title": "함수형 사고",
@@ -771,7 +814,8 @@
    "isbn": "9788968482960",
    "category": "함수형 프로그래밍",
    "out_of_print": true,
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788968482960"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788968482960",
+   "cover": "https://image.aladin.co.kr/product/8595/68/cover500/8968482969_1.jpg"
   },
   {
    "title": "쏙쏙 들어오는 함수형 코딩",
@@ -783,7 +827,8 @@
    "published": "2022-04-22",
    "isbn": "9791191600759",
    "category": "함수형 프로그래밍",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791191600759"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791191600759",
+   "cover": "https://image.aladin.co.kr/product/29234/92/cover500/k682837293_1.jpg"
   },
   {
    "title": "도메인 주도 설계",
@@ -795,7 +840,8 @@
    "published": "2011-07-21",
    "isbn": "9788992939850",
    "category": "도메인 주도 설계",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788992939850"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788992939850",
+   "cover": "https://image.aladin.co.kr/product/1217/42/cover500/899293985x_1.jpg"
   },
   {
    "title": "도메인 주도 설계 핵심",
@@ -807,7 +853,8 @@
    "published": "2017-09-25",
    "isbn": "9791161750576",
    "category": "도메인 주도 설계",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791161750576"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791161750576",
+   "cover": "https://image.aladin.co.kr/product/11809/90/cover500/k582531421_2.jpg"
   },
   {
    "title": "도메인 주도 개발 시작하기",
@@ -819,7 +866,8 @@
    "published": "2022-03-21",
    "isbn": "9791162245385",
    "category": "도메인 주도 설계",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791162245385"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791162245385",
+   "cover": "https://image.aladin.co.kr/product/29142/6/cover500/k262837077_1.jpg"
   },
   {
    "title": "도메인 주도 설계 첫걸음",
@@ -831,7 +879,8 @@
    "published": "2022-05-30",
    "isbn": "9791158393359",
    "category": "도메인 주도 설계",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791158393359"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791158393359",
+   "cover": "https://image.aladin.co.kr/product/29522/75/cover500/k462837347_1.jpg"
   },
   {
    "title": "도메인 주도 설계 구현",
@@ -842,7 +891,8 @@
    "published": "2016-04-07",
    "isbn": "9788960778429",
    "category": "도메인 주도 설계",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788960778429"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788960778429",
+   "cover": "https://image.aladin.co.kr/product/8025/4/cover500/8960778427_1.jpg"
   },
   {
    "title": "소프트웨어 아키텍처 The Basics",
@@ -855,7 +905,8 @@
    "published": "2025-11-30",
    "isbn": "9791199529854",
    "category": "소프트웨어 아키텍처",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791199529854"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791199529854",
+   "cover": "https://image.aladin.co.kr/product/37877/31/cover500/k082033909_1.jpg"
   },
   {
    "title": "소프트웨어 아키텍처 The Hard Parts",
@@ -869,7 +920,8 @@
    "published": "2022-10-01",
    "isbn": "9791169210294",
    "category": "소프트웨어 아키텍처",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791169210294"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791169210294",
+   "cover": "https://image.aladin.co.kr/product/30231/14/cover500/k972839408_1.jpg"
   },
   {
    "title": "데이터 중심 애플리케이션 설계",
@@ -882,7 +934,8 @@
    "isbn": "9791158390983",
    "category": "소프트웨어 아키텍처",
    "out_of_print": true,
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791158390983"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791158390983",
+   "cover": "https://image.aladin.co.kr/product/14001/83/cover500/k292532839_1.jpg"
   },
   {
    "title": "마이크로서비스 패턴",
@@ -894,7 +947,8 @@
    "published": "2020-02-03",
    "isbn": "9791165210441",
    "category": "소프트웨어 아키텍처",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791165210441"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791165210441",
+   "cover": "https://image.aladin.co.kr/product/22869/46/cover500/k562636848_1.jpg"
   },
   {
    "title": "만들면서 배우는 클린 아키텍처",
@@ -907,7 +961,8 @@
    "isbn": "9791158392758",
    "category": "소프트웨어 아키텍처",
    "out_of_print": true,
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791158392758"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791158392758",
+   "cover": "https://image.aladin.co.kr/product/28343/79/cover500/k262835103_1.jpg"
   },
   {
    "title": "가상 면접 사례로 배우는 대규모 시스템 설계 기초",
@@ -918,7 +973,8 @@
    "published": "2021-07-28",
    "isbn": "9788966263158",
    "category": "소프트웨어 아키텍처",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966263158"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966263158",
+   "cover": "https://image.aladin.co.kr/product/27604/17/cover500/8966263151_1.jpg"
   },
   {
    "title": "가상 면접 사례로 배우는 대규모 시스템 설계 기초 2",
@@ -930,7 +986,8 @@
    "published": "2024-01-02",
    "isbn": "9788966264254",
    "category": "소프트웨어 아키텍처",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966264254"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966264254",
+   "cover": "https://image.aladin.co.kr/product/33040/41/cover500/8966264255_1.jpg"
   },
   {
    "title": "윤성우의 열혈 C 프로그래밍",
@@ -942,7 +999,8 @@
    "isbn": "9788996094050",
    "category": "C",
    "out_of_print": true,
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788996094050"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788996094050",
+   "cover": "https://image.aladin.co.kr/product/801/61/cover500/8996094056_1.jpg"
   },
   {
    "title": "독하게 시작하는 C 프로그래밍",
@@ -955,7 +1013,8 @@
    "isbn": "9791195149209",
    "category": "C",
    "out_of_print": true,
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791195149209"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791195149209",
+   "cover": "https://image.aladin.co.kr/product/6203/71/cover500/k322433122_1.jpg"
   },
   {
    "title": "윤성우의 열혈 C++ 프로그래밍",
@@ -966,7 +1025,8 @@
    "published": "2010-05-14",
    "isbn": "9788996094043",
    "category": "C++",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788996094043"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788996094043",
+   "cover": "https://image.aladin.co.kr/product/696/7/cover500/8996094048_1.jpg"
   },
   {
    "title": "이펙티브 모던 C++",
@@ -978,7 +1038,8 @@
    "published": "2015-09-16",
    "isbn": "9788966261642",
    "category": "C++",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966261642"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966261642",
+   "cover": "https://image.aladin.co.kr/product/6654/13/cover500/8966261647_1.jpg"
   },
   {
    "title": "프로 Git 2판",
@@ -991,7 +1052,8 @@
    "published": "2016-03-30",
    "isbn": "9788966261789",
    "category": "Git",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966261789"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966261789",
+   "cover": "https://image.aladin.co.kr/product/7923/26/cover500/8966261787_1.jpg"
   },
   {
    "title": "팀 개발을 위한 Git, GitHub 시작하기",
@@ -1004,7 +1066,8 @@
    "published": "2023-05-12",
    "isbn": "9791169210607",
    "category": "Git",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791169210607"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791169210607",
+   "cover": "https://image.aladin.co.kr/product/31649/38/cover500/k092833476_1.jpg"
   },
   {
    "title": "이펙티브 자바",
@@ -1015,7 +1078,8 @@
    "published": "2018-11-01",
    "isbn": "9788966262281",
    "category": "자바",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966262281"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966262281",
+   "cover": "https://image.aladin.co.kr/product/17119/64/cover500/8966262287_1.jpg"
   },
   {
    "title": "모던 자바 인 액션",
@@ -1029,7 +1093,8 @@
    "published": "2019-08-01",
    "isbn": "9791162242025",
    "category": "자바",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791162242025"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791162242025",
+   "cover": "https://image.aladin.co.kr/product/20006/92/cover500/k042635140_1.jpg"
   },
   {
    "title": "자바 ORM 표준 JPA 프로그래밍",
@@ -1041,7 +1106,8 @@
    "published": "2015-07-28",
    "isbn": "9788960777330",
    "category": "자바",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788960777330"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788960777330",
+   "cover": "https://image.aladin.co.kr/product/6268/14/cover500/8960777331_1.jpg"
   },
   {
    "title": "Java의 정석 4판",
@@ -1052,7 +1118,8 @@
    "published": "2025-07-01",
    "isbn": "9788994492001",
    "category": "자바",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788994492001"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788994492001",
+   "cover": "https://image.aladin.co.kr/product/36680/21/cover500/8994492003_1.jpg"
   },
   {
    "title": "코틀린 인 액션 2/e",
@@ -1065,7 +1132,8 @@
    "published": "2025-02-27",
    "isbn": "9791161759692",
    "category": "코틀린",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791161759692"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791161759692",
+   "cover": "https://image.aladin.co.kr/product/35809/98/cover500/k202036651_1.jpg"
   },
   {
    "title": "코틀린 아카데미 : 이펙티브 코틀린",
@@ -1076,7 +1144,8 @@
    "published": "2025-06-09",
    "isbn": "9788966264612",
    "category": "코틀린",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966264612"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966264612",
+   "cover": "https://image.aladin.co.kr/product/36498/65/cover500/8966264611_1.jpg"
   },
   {
    "title": "코틀린 코루틴의 정석",
@@ -1088,7 +1157,8 @@
    "published": "2024-02-29",
    "isbn": "9791161758251",
    "category": "코틀린",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791161758251"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791161758251",
+   "cover": "https://image.aladin.co.kr/product/33413/26/cover500/k582938339_1.jpg"
   },
   {
    "title": "자바스크립트 완벽 가이드",
@@ -1099,7 +1169,8 @@
    "published": "2022-03-31",
    "isbn": "9788966263462",
    "category": "자바스크립트",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966263462"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966263462",
+   "cover": "https://image.aladin.co.kr/product/29148/31/cover500/8966263461_1.jpg"
   },
   {
    "title": "You Don’t Know JS Yet",
@@ -1111,7 +1182,8 @@
    "published": "2024-01-12",
    "isbn": "9791169211888",
    "category": "자바스크립트",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791169211888"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791169211888",
+   "cover": "https://image.aladin.co.kr/product/33143/17/cover500/k292937321_1.jpg"
   },
   {
    "title": "코어 자바스크립트",
@@ -1123,7 +1195,8 @@
    "published": "2019-09-10",
    "isbn": "9791158391720",
    "category": "자바스크립트",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791158391720"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791158391720",
+   "cover": "https://image.aladin.co.kr/product/20651/30/cover500/k532636268_1.jpg"
   },
   {
    "title": "인사이드 자바스크립트",
@@ -1137,7 +1210,8 @@
    "isbn": "9788968480652",
    "category": "자바스크립트",
    "out_of_print": true,
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788968480652"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788968480652",
+   "cover": "https://image.aladin.co.kr/product/3448/66/cover500/8968480656_1.jpg"
   },
   {
    "title": "자바스크립트 코딩의 기술",
@@ -1149,7 +1223,8 @@
    "published": "2019-12-27",
    "isbn": "9791165210205",
    "category": "자바스크립트",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791165210205"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791165210205",
+   "cover": "https://image.aladin.co.kr/product/22219/77/cover500/k432636612_1.jpg"
   },
   {
    "title": "모던 자바스크립트 Deep Dive",
@@ -1161,7 +1236,8 @@
    "published": "2020-09-25",
    "isbn": "9791158392239",
    "category": "자바스크립트",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791158392239"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791158392239",
+   "cover": "https://image.aladin.co.kr/product/25155/25/cover500/k282633473_1.jpg"
   },
   {
    "title": "이펙티브 타입스크립트",
@@ -1173,7 +1249,8 @@
    "published": "2025-12-17",
    "isbn": "9788966265046",
    "category": "타입스크립트",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966265046"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966265046",
+   "cover": "https://image.aladin.co.kr/product/38029/28/cover500/8966265049_1.jpg"
   },
   {
    "title": "러닝 타입스크립트",
@@ -1185,7 +1262,8 @@
    "published": "2023-01-02",
    "isbn": "9791169210638",
    "category": "타입스크립트",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791169210638"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791169210638",
+   "cover": "https://image.aladin.co.kr/product/30768/38/cover500/k602830658_1.jpg"
   },
   {
    "title": "우아한 타입스크립트 with 리액트",
@@ -1213,7 +1291,8 @@
    "published": "2023-10-31",
    "isbn": "9791169211567",
    "category": "타입스크립트",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791169211567"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791169211567",
+   "cover": "https://image.aladin.co.kr/product/32706/39/cover500/k332936775_1.jpg"
   },
   {
    "title": "파이썬 클린 코드",
@@ -1225,7 +1304,8 @@
    "published": "2022-11-11",
    "isbn": "9791161341330",
    "category": "파이썬",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791161341330"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791161341330",
+   "cover": "https://image.aladin.co.kr/product/30308/9/cover500/k802839030_1.jpg"
   },
   {
    "title": "슬기로운 파이썬 트릭",
@@ -1237,7 +1317,8 @@
    "published": "2019-01-29",
    "isbn": "9788966262342",
    "category": "파이썬",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966262342"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966262342",
+   "cover": "https://image.aladin.co.kr/product/17911/81/cover500/8966262341_1.jpg"
   },
   {
    "title": "이펙티브 파이썬 2판",
@@ -1250,7 +1331,8 @@
    "isbn": "9791165213190",
    "category": "파이썬",
    "out_of_print": true,
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791165213190"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791165213190",
+   "cover": "https://image.aladin.co.kr/product/25432/17/cover500/k552633414_1.jpg"
   },
   {
    "title": "Do it! 점프 투 파이썬",
@@ -1261,7 +1343,8 @@
    "published": "2023-06-15",
    "isbn": "9791163034735",
    "category": "파이썬",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791163034735"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791163034735",
+   "cover": "https://image.aladin.co.kr/product/31794/10/cover500/k362833219_1.jpg"
   },
   {
    "title": "전문가를 위한 파이썬",
@@ -1273,7 +1356,8 @@
    "published": "2024-11-30",
    "isbn": "9791169211772",
    "category": "파이썬",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791169211772"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791169211772",
+   "cover": "https://image.aladin.co.kr/product/35292/10/cover500/k382035768_1.jpg"
   },
   {
    "title": "혼자 공부하는 파이썬",
@@ -1285,7 +1369,8 @@
    "published": "2022-06-01",
    "isbn": "9791162245651",
    "category": "파이썬",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791162245651"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791162245651",
+   "cover": "https://image.aladin.co.kr/product/29499/67/cover500/k412837047_1.jpg"
   },
   {
    "title": "Tucker의 Go 언어 프로그래밍",
@@ -1297,7 +1382,8 @@
    "published": "2024-07-25",
    "isbn": "9791191905809",
    "category": "Go",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791191905809"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791191905809",
+   "cover": "https://image.aladin.co.kr/product/34348/98/cover500/k192932998_1.jpg"
   },
   {
    "title": "러닝 Go",
@@ -1309,7 +1395,8 @@
    "published": "2022-02-25",
    "isbn": "9791162245309",
    "category": "Go",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791162245309"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791162245309",
+   "cover": "https://image.aladin.co.kr/product/28973/60/cover500/k032836826_1.jpg"
   },
   {
    "title": "러스트 프로그래밍 공식 가이드",
@@ -1322,7 +1409,8 @@
    "published": "2024-02-23",
    "isbn": "9791192987422",
    "category": "Rust",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791192987422"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791192987422",
+   "cover": "https://image.aladin.co.kr/product/33361/5/cover500/k012938902_1.jpg"
   },
   {
    "title": "프로그래밍 러스트",
@@ -1336,7 +1424,8 @@
    "published": "2023-01-16",
    "isbn": "9791192469751",
    "category": "Rust",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791192469751"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791192469751",
+   "cover": "https://image.aladin.co.kr/product/30844/88/cover500/k342831471_1.jpg"
   },
   {
    "title": "리액트를 다루는 기술",
@@ -1348,7 +1437,8 @@
    "published": "2019-08-31",
    "isbn": "9791160508796",
    "category": "프론트엔드/리액트",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791160508796"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791160508796",
+   "cover": "https://image.aladin.co.kr/product/20481/95/cover500/k662635453_1.jpg"
   },
   {
    "title": "실전 리액트 프로그래밍 개정판",
@@ -1360,7 +1450,8 @@
    "published": "2020-07-13",
    "isbn": "9788966262670",
    "category": "프론트엔드/리액트",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966262670"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966262670",
+   "cover": "https://image.aladin.co.kr/product/24368/61/cover500/8966262678_1.jpg"
   },
   {
    "title": "Do it! 리액트 프로그래밍 정석",
@@ -1373,7 +1464,8 @@
    "isbn": "9791163031451",
    "category": "프론트엔드/리액트",
    "out_of_print": true,
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791163031451"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791163031451",
+   "cover": "https://image.aladin.co.kr/product/23178/95/cover500/k332637108_1.jpg"
   },
   {
    "title": "모던 리액트 Deep Dive",
@@ -1385,7 +1477,8 @@
    "published": "2023-11-07",
    "isbn": "9791158394646",
    "category": "프론트엔드/리액트",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791158394646"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791158394646",
+   "cover": "https://image.aladin.co.kr/product/32749/91/cover500/k542936989_1.jpg"
   },
   {
    "title": "리액트 훅을 활용한 마이크로 상태 관리",
@@ -1397,7 +1490,8 @@
    "published": "2024-02-20",
    "isbn": "9791158394899",
    "category": "프론트엔드/리액트",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791158394899"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791158394899",
+   "cover": "https://image.aladin.co.kr/product/33359/93/cover500/k142938909_1.jpg"
   },
   {
    "title": "Do it! Vue.js 입문",
@@ -1408,7 +1502,8 @@
    "published": "2018-02-05",
    "isbn": "9791188612789",
    "category": "프론트엔드/뷰",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791188612789"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791188612789",
+   "cover": "https://image.aladin.co.kr/product/13189/74/cover500/k202532498_1.jpg"
   },
   {
    "title": "커피 한 잔 마시며 끝내는 Vue.JS",
@@ -1421,7 +1516,8 @@
    "published": "2019-07-31",
    "isbn": "9791190014397",
    "category": "프론트엔드/뷰",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791190014397"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791190014397",
+   "cover": "https://image.aladin.co.kr/product/19920/21/cover500/k802635635_1.jpg"
   },
   {
    "title": "Angular Essentials",
@@ -1433,7 +1529,8 @@
    "published": "2018-07-04",
    "isbn": "9791186710340",
    "category": "프론트엔드/앵귤러",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791186710340"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791186710340",
+   "cover": "https://image.aladin.co.kr/product/15374/29/cover500/k402533324_1.jpg"
   },
   {
    "title": "프론트엔드 성능 최적화 가이드",
@@ -1445,7 +1542,8 @@
    "published": "2022-11-15",
    "isbn": "9788966263745",
    "category": "프론트엔드/웹 성능",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966263745"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966263745",
+   "cover": "https://image.aladin.co.kr/product/30437/18/cover500/8966263747_1.jpg"
   },
   {
    "title": "토비의 스프링",
@@ -1456,7 +1554,8 @@
    "published": "2012-09-21",
    "isbn": "9788960773431",
    "category": "백엔드/스프링",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788960773431"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788960773431",
+   "cover": "https://image.aladin.co.kr/product/1950/57/cover500/8960773433_1.jpg"
   },
   {
    "title": "스프링 입문을 위한 자바 객체 지향의 원리와 이해",
@@ -1467,7 +1566,8 @@
    "published": "2015-04-08",
    "isbn": "9788998139940",
    "category": "백엔드/스프링",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788998139940"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788998139940",
+   "cover": "https://image.aladin.co.kr/product/5564/19/cover500/8998139944_1.jpg"
   },
   {
    "title": "스프링 부트와 AWS로 혼자 구현하는 웹 서비스",
@@ -1479,7 +1579,8 @@
    "published": "2019-11-29",
    "isbn": "9788965402602",
    "category": "백엔드/스프링",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788965402602"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788965402602",
+   "cover": "https://image.aladin.co.kr/product/21856/89/cover500/8965402603_2.jpg"
   },
   {
    "title": "코드로 배우는 스프링 웹 프로젝트",
@@ -1491,7 +1592,8 @@
    "published": "2018-09-13",
    "isbn": "9791189184018",
    "category": "백엔드/스프링",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791189184018"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791189184018",
+   "cover": "https://image.aladin.co.kr/product/16627/3/cover500/k012534261_1.jpg"
   },
   {
    "title": "스프링 6 레시피",
@@ -1505,7 +1607,8 @@
    "published": "2025-09-01",
    "isbn": "9791169214254",
    "category": "백엔드/스프링",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791169214254"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791169214254",
+   "cover": "https://image.aladin.co.kr/product/37039/9/cover500/k522030039_1.jpg"
   },
   {
    "title": "스프링 인 액션 5판",
@@ -1517,7 +1620,8 @@
    "published": "2020-05-14",
    "isbn": "9791190665186",
    "category": "백엔드/스프링",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791190665186"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791190665186",
+   "cover": "https://image.aladin.co.kr/product/23975/50/cover500/k602639016_1.jpg"
   },
   {
    "title": "Node.js + NestJS 교과서",
@@ -1529,7 +1633,8 @@
    "published": "2026-05-27",
    "isbn": "9791140718924",
    "category": "백엔드/Node.js",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791140718924"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791140718924",
+   "cover": "https://image.aladin.co.kr/product/39409/94/cover500/k432139091_1.jpg"
   },
   {
    "title": "HTTP 완벽 가이드",
@@ -1545,7 +1650,8 @@
    "published": "2014-12-15",
    "isbn": "9788966261208",
    "category": "백엔드/HTTP",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966261208"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966261208",
+   "cover": "https://image.aladin.co.kr/product/4973/15/cover500/8966261205_1.jpg"
   },
   {
    "title": "Real MySQL 8.0",
@@ -1558,7 +1664,8 @@
    "published": "2021-09-08",
    "isbn": "9791158392703",
    "category": "데이터베이스",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791158392703"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791158392703",
+   "cover": "https://image.aladin.co.kr/product/27848/87/cover500/k712734689_1.jpg"
   },
   {
    "title": "친절한 SQL 튜닝",
@@ -1570,7 +1677,8 @@
    "published": "2018-06-01",
    "isbn": "9791196395704",
    "category": "데이터베이스",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791196395704"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791196395704",
+   "cover": "https://image.aladin.co.kr/product/14823/37/cover500/k892532350_1.jpg"
   },
   {
    "title": "데이터베이스 인터널스",
@@ -1582,7 +1690,8 @@
    "published": "2021-01-29",
    "isbn": "9791161754963",
    "category": "데이터베이스",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791161754963"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791161754963",
+   "cover": "https://image.aladin.co.kr/product/26193/96/cover500/k262738085_1.jpg"
   },
   {
    "title": "SQL 레벨업",
@@ -1594,7 +1703,8 @@
    "published": "2016-01-30",
    "isbn": "9788968482519",
    "category": "데이터베이스",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788968482519"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788968482519",
+   "cover": "https://image.aladin.co.kr/product/7556/62/cover500/8968482519_1.jpg"
   },
   {
    "title": "Kubernetes in Action",
@@ -1606,7 +1716,8 @@
    "published": "2020-03-31",
    "isbn": "9791161754048",
    "category": "데브옵스",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791161754048"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791161754048",
+   "cover": "https://image.aladin.co.kr/product/23596/27/cover500/k202638421_1.jpg"
   },
   {
    "title": "데브옵스 핸드북 2/e",
@@ -1622,7 +1733,8 @@
    "published": "2024-05-31",
    "isbn": "9791161758480",
    "category": "데브옵스",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791161758480"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791161758480",
+   "cover": "https://image.aladin.co.kr/product/33970/42/cover500/k342930441_1.jpg"
   },
   {
    "title": "Kafka Streams in Action",
@@ -1635,7 +1747,8 @@
    "isbn": "9791161753263",
    "category": "데브옵스",
    "out_of_print": true,
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791161753263"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791161753263",
+   "cover": "https://image.aladin.co.kr/product/19618/64/cover500/k942635525_1.jpg"
   },
   {
    "title": "애플리케이션 프로그래밍 with 자바(아파치 카프카)",
@@ -1648,7 +1761,8 @@
    "isbn": "9791165920548",
    "category": "데브옵스",
    "out_of_print": true,
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791165920548"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791165920548",
+   "cover": "https://image.aladin.co.kr/product/26898/58/cover500/k562730509_1.jpg"
   },
   {
    "title": "그림과 실습으로 배우는 도커 & 쿠버네티스",
@@ -1660,7 +1774,8 @@
    "published": "2022-04-05",
    "isbn": "9791158393038",
    "category": "데브옵스",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791158393038"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791158393038",
+   "cover": "https://image.aladin.co.kr/product/29141/96/cover500/k052837077_1.jpg"
   },
   {
    "title": "사이트 신뢰성 엔지니어링",
@@ -1675,7 +1790,8 @@
    "published": "2018-01-18",
    "isbn": "9791188621088",
    "category": "데브옵스",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791188621088"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791188621088",
+   "cover": "https://image.aladin.co.kr/product/12940/73/cover500/k902532482_1.jpg"
   },
   {
    "title": "테라폼 업앤러닝 2판",
@@ -1686,7 +1802,8 @@
    "published": "2021-05-01",
    "isbn": "9791186710661",
    "category": "데브옵스",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791186710661"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791186710661",
+   "cover": "https://image.aladin.co.kr/product/27085/46/cover500/k352731682_1.jpg"
   },
   {
    "title": "AWS 교과서",
@@ -1700,7 +1817,8 @@
    "published": "2026-07-02",
    "isbn": "9791140719310",
    "category": "데브옵스",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791140719310"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791140719310",
+   "cover": "https://image.aladin.co.kr/product/39680/88/cover500/k612130397_1.jpg"
   },
   {
    "title": "밑바닥부터 시작하는 딥러닝 1",
@@ -1712,7 +1830,8 @@
    "published": "2025-01-24",
    "isbn": "9791169213387",
    "category": "머신러닝",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791169213387"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791169213387",
+   "cover": "https://image.aladin.co.kr/product/35639/92/cover500/k222036504_1.jpg"
   },
   {
    "title": "파이썬 라이브러리를 활용한 머신러닝",
@@ -1725,7 +1844,8 @@
    "published": "2022-02-25",
    "isbn": "9791162245279",
    "category": "머신러닝",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791162245279"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791162245279",
+   "cover": "https://image.aladin.co.kr/product/28973/52/cover500/k772836825_1.jpg"
   },
   {
    "title": "단단한 머신러닝",
@@ -1737,7 +1857,8 @@
    "published": "2020-02-28",
    "isbn": "9791188621989",
    "category": "머신러닝",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791188621989"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791188621989",
+   "cover": "https://image.aladin.co.kr/product/23310/91/cover500/k602637812_1.jpg"
   },
   {
    "title": "머신러닝 탐구생활",
@@ -1750,7 +1871,8 @@
    "isbn": "9791186697696",
    "category": "머신러닝",
    "out_of_print": true,
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791186697696"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791186697696",
+   "cover": "https://image.aladin.co.kr/product/16447/37/cover500/k862533646_2.jpg"
   },
   {
    "title": "파이썬으로 배우는 딥러닝 교과서",
@@ -1763,7 +1885,8 @@
    "isbn": "9791162242827",
    "category": "머신러닝",
    "out_of_print": true,
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791162242827"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791162242827",
+   "cover": "https://image.aladin.co.kr/product/23373/13/cover500/k582637113_1.jpg"
   },
   {
    "title": "핸즈온 머신러닝 3판",
@@ -1775,7 +1898,8 @@
    "published": "2023-09-29",
    "isbn": "9791169211475",
    "category": "머신러닝",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791169211475"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791169211475",
+   "cover": "https://image.aladin.co.kr/product/32427/88/cover500/k332935094_2.jpg"
   },
   {
    "title": "혼자 공부하는 머신러닝 + 딥러닝",
@@ -1787,7 +1911,8 @@
    "published": "2025-04-07",
    "isbn": "9791169213608",
    "category": "머신러닝",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791169213608"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791169213608",
+   "cover": "https://image.aladin.co.kr/product/36114/6/cover500/k862038063_2.jpg"
   },
   {
    "title": "머신러닝 시스템 설계",
@@ -1799,7 +1924,8 @@
    "published": "2023-03-14",
    "isbn": "9791169210850",
    "category": "머신러닝",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791169210850"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791169210850",
+   "cover": "https://image.aladin.co.kr/product/31281/61/cover500/k622832473_1.jpg"
   },
   {
    "title": "밑바닥부터 만들면서 배우는 LLM",
@@ -1811,7 +1937,8 @@
    "published": "2025-09-22",
    "isbn": "9791140715848",
    "category": "AI와 LLM",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791140715848"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791140715848",
+   "cover": "https://image.aladin.co.kr/product/37227/24/cover500/k182031704_2.jpg"
   },
   {
    "title": "핸즈온 LLM",
@@ -1824,7 +1951,8 @@
    "published": "2025-06-10",
    "isbn": "9791169213516",
    "category": "AI와 LLM",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791169213516"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791169213516",
+   "cover": "https://image.aladin.co.kr/product/36450/78/cover500/k982039497_1.jpg"
   },
   {
    "title": "AI 엔지니어링",
@@ -1836,7 +1964,8 @@
    "published": "2025-09-30",
    "isbn": "9791169214278",
    "category": "AI와 LLM",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791169214278"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791169214278",
+   "cover": "https://image.aladin.co.kr/product/37309/79/cover500/k622031756_1.jpg"
   },
   {
    "title": "LLM을 활용한 실전 AI 애플리케이션 개발",
@@ -1848,7 +1977,8 @@
    "published": "2024-07-25",
    "isbn": "9791189909703",
    "category": "AI와 LLM",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791189909703"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791189909703",
+   "cover": "https://image.aladin.co.kr/product/34318/56/cover500/k412932572_2.jpg"
   },
   {
    "title": "만들면서 배우는 생성 AI",
@@ -1860,7 +1990,8 @@
    "published": "2023-09-15",
    "isbn": "9791169211437",
    "category": "AI와 LLM",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791169211437"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791169211437",
+   "cover": "https://image.aladin.co.kr/product/32427/87/cover500/k392935094_1.jpg"
   },
   {
    "title": "밑바닥부터 시작하는 딥러닝 5",
@@ -1872,7 +2003,8 @@
    "published": "2024-10-15",
    "isbn": "9791169212960",
    "category": "AI와 LLM",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791169212960"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791169212960",
+   "cover": "https://image.aladin.co.kr/product/34927/12/cover500/k342934266_1.jpg"
   },
   {
    "title": "가상 면접 사례로 배우는 생성형 AI 서비스 설계",
@@ -1884,7 +2016,8 @@
    "published": "2026-03-12",
    "isbn": "9788966265213",
    "category": "AI와 LLM",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966265213"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966265213",
+   "cover": "https://image.aladin.co.kr/product/38758/55/cover500/8966265219_1.jpg"
   },
   {
    "title": "깡샘의 안드로이드 프로그래밍",
@@ -1896,7 +2029,8 @@
    "published": "2019-06-26",
    "isbn": "9791186710210",
    "category": "안드로이드",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791186710210"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791186710210",
+   "cover": null
   },
   {
    "title": "Do it! 안드로이드 앱 프로그래밍",
@@ -1908,7 +2042,8 @@
    "isbn": "9791163032625",
    "category": "안드로이드",
    "out_of_print": true,
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791163032625"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791163032625",
+   "cover": "https://image.aladin.co.kr/product/27421/51/cover500/k572733175_1.jpg"
   },
   {
    "title": "이것이 안드로이드다 with 코틀린",
@@ -1920,7 +2055,8 @@
    "published": "2022-01-03",
    "isbn": "9791162245026",
    "category": "안드로이드",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791162245026"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791162245026",
+   "cover": "https://image.aladin.co.kr/product/28591/67/cover500/k002835759_1.jpg"
   },
   {
    "title": "꼼꼼한 재은 씨의 스위프트 시리즈",
@@ -1931,7 +2067,8 @@
    "published": "2017-12-04",
    "isbn": "9791186710234",
    "category": "iOS",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791186710234"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791186710234",
+   "cover": "https://image.aladin.co.kr/product/12524/13/cover500/k632532262_1.jpg"
   },
   {
    "title": "스위프트 프로그래밍",
@@ -1943,7 +2080,8 @@
    "published": "2025-05-30",
    "isbn": "9791169213905",
    "category": "iOS",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791169213905"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791169213905",
+   "cover": "https://image.aladin.co.kr/product/36471/14/cover500/k522039911_1.jpg"
   },
   {
    "title": "Do it! 스위프트로 아이폰 앱 만들기 입문",
@@ -1955,7 +2093,8 @@
    "published": "2025-03-07",
    "isbn": "9791163036807",
    "category": "iOS",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791163036807"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791163036807",
+   "cover": "https://image.aladin.co.kr/product/35935/10/cover500/k002037708_1.jpg"
   },
   {
    "title": "윤성우의 열혈 자료구조",
@@ -1967,7 +2106,8 @@
    "published": "2012-01-18",
    "isbn": "9788996094067",
    "category": "알고리즘",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788996094067"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788996094067",
+   "cover": "https://image.aladin.co.kr/product/1478/34/cover500/8996094064_1.jpg"
   },
   {
    "title": "알고리즘 문제 해결 전략",
@@ -1979,7 +2119,8 @@
    "published": "2012-11-14",
    "isbn": "9788966260546",
    "category": "알고리즘",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966260546"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966260546",
+   "cover": "https://image.aladin.co.kr/product/2108/91/cover500/8966260543_1.jpg"
   },
   {
    "title": "알고리즘 트레이닝",
@@ -1991,7 +2132,8 @@
    "published": "2022-03-21",
    "isbn": "9788966263479",
    "category": "알고리즘",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966263479"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966263479",
+   "cover": "https://image.aladin.co.kr/product/29091/23/cover500/896626347x_1.jpg"
   },
   {
    "title": "다이내믹 프로그래밍 완전정복",
@@ -2004,7 +2146,8 @@
    "published": "2019-10-04",
    "isbn": "9791162242063",
    "category": "알고리즘",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791162242063"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791162242063",
+   "cover": "https://image.aladin.co.kr/product/20934/27/cover500/k592636173_1.jpg"
   },
   {
    "title": "Hello Coding 그림으로 개념을 이해하는 알고리즘",
@@ -2016,7 +2159,8 @@
    "isbn": "9788968483547",
    "category": "알고리즘",
    "out_of_print": true,
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788968483547"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788968483547",
+   "cover": "https://image.aladin.co.kr/product/10598/25/cover500/896848354x_1.jpg"
   },
   {
    "title": "누워서 읽는 알고리즘",
@@ -2028,7 +2172,8 @@
    "published": "2015-10-20",
    "isbn": "9788968482274",
    "category": "알고리즘",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788968482274"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788968482274",
+   "cover": "https://image.aladin.co.kr/product/6841/47/cover500/8968482276_1.jpg"
   },
   {
    "title": "컴퓨터 구조 및 설계",
@@ -2041,7 +2186,8 @@
    "published": "2021-06-30",
    "isbn": "9788964214244",
    "category": "컴퓨터구조",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788964214244"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788964214244",
+   "cover": "https://image.aladin.co.kr/product/27556/54/cover500/8964214242_1.jpg"
   },
   {
    "title": "인사이드 머신",
@@ -2053,7 +2199,8 @@
    "published": "2007-03-30",
    "isbn": "9788960770126",
    "category": "컴퓨터구조",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788960770126"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788960770126",
+   "cover": "https://image.aladin.co.kr/product/89/97/cover500/8960770124_1.jpg"
   },
   {
    "title": "혼자 공부하는 컴퓨터 구조 + 운영체제",
@@ -2065,7 +2212,8 @@
    "published": "2022-08-16",
    "isbn": "9791162243091",
    "category": "컴퓨터구조",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791162243091"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791162243091",
+   "cover": "https://image.aladin.co.kr/product/29901/42/cover500/k932838038_1.jpg"
   },
   {
    "title": "운영체제",
@@ -2076,7 +2224,8 @@
    "published": "2020-02-28",
    "isbn": "9791185475578",
    "category": "운영체제",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791185475578"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791185475578",
+   "cover": "https://image.aladin.co.kr/product/23536/6/cover500/k372638921_1.jpg"
   },
   {
    "title": "그림으로 배우는 리눅스 구조",
@@ -2088,7 +2237,8 @@
    "published": "2023-09-08",
    "isbn": "9791169211352",
    "category": "운영체제",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791169211352"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791169211352",
+   "cover": "https://image.aladin.co.kr/product/32360/16/cover500/k642935560_1.jpg"
   },
   {
    "title": "운영체제 아주 쉬운 세 가지 이야기",
@@ -2099,7 +2249,8 @@
    "published": "2020-09-10",
    "isbn": "9791156007937",
    "category": "운영체제",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791156007937"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791156007937",
+   "cover": "https://image.aladin.co.kr/product/25327/12/cover500/k172633503_2.jpg"
   },
   {
    "title": "후니의 쉽게 쓴 시스코 네트워킹",
@@ -2111,7 +2262,8 @@
    "published": "2022-09-15",
    "isbn": "9788931589191",
    "category": "네트워크",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788931589191"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788931589191",
+   "cover": "https://image.aladin.co.kr/product/23543/72/cover500/8931589190_3.jpg"
   },
   {
    "title": "모두의 네트워크 기초",
@@ -2123,7 +2275,8 @@
    "published": "2024-01-30",
    "isbn": "9791140707218",
    "category": "네트워크",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791140707218"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791140707218",
+   "cover": "https://image.aladin.co.kr/product/33315/42/cover500/k322938482_1.jpg"
   },
   {
    "title": "그림으로 배우는 HTTP & Network Basic",
@@ -2134,7 +2287,8 @@
    "published": "2015-01-26",
    "isbn": "9788931447897",
    "category": "네트워크",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788931447897"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788931447897",
+   "cover": "https://image.aladin.co.kr/product/5190/81/cover500/8931447892_1.jpg"
   },
   {
    "title": "IT 엔지니어를 위한 네트워크 입문",
@@ -2147,7 +2301,8 @@
    "published": "2020-10-30",
    "isbn": "9791165213183",
    "category": "네트워크",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791165213183"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791165213183",
+   "cover": "https://image.aladin.co.kr/product/25415/58/cover500/k032633114_1.jpg"
   },
   {
    "title": "웹 해킹 & 보안 완벽 가이드",
@@ -2160,7 +2315,8 @@
    "published": "2014-08-29",
    "isbn": "9788960775961",
    "category": "보안",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788960775961"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788960775961",
+   "cover": "https://image.aladin.co.kr/product/4531/37/cover500/8960775967_1.jpg"
   },
   {
    "title": "코딩 인터뷰 완전 분석",
@@ -2172,7 +2328,8 @@
    "published": "2017-08-14",
    "isbn": "9788966263080",
    "category": "인터뷰",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966263080"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966263080",
+   "cover": "https://image.aladin.co.kr/product/11511/65/cover500/8966263089_1.jpg"
   },
   {
    "title": "코딩 인터뷰 퀘스천",
@@ -2184,7 +2341,8 @@
    "published": "2015-01-05",
    "isbn": "9788931447842",
    "category": "인터뷰",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788931447842"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788931447842",
+   "cover": "https://image.aladin.co.kr/product/5025/3/cover500/8931447841_1.jpg"
   },
   {
    "title": "이것이 취업을 위한 코딩 테스트다 with 파이썬",
@@ -2196,7 +2354,8 @@
    "published": "2020-08-05",
    "isbn": "9791162243077",
    "category": "인터뷰",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791162243077"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791162243077",
+   "cover": "https://image.aladin.co.kr/product/24788/21/cover500/k342631735_1.jpg"
   },
   {
    "title": "프로그래밍 면접, 이렇게 준비한다",
@@ -2207,7 +2366,8 @@
    "published": "2019-07-04",
    "isbn": "9791162241998",
    "category": "인터뷰",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791162241998"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791162241998",
+   "cover": "https://image.aladin.co.kr/product/19580/7/cover500/k172635329_1.jpg"
   },
   {
    "title": "파이썬 알고리즘 인터뷰",
@@ -2219,7 +2379,8 @@
    "published": "2020-07-15",
    "isbn": "9791189909178",
    "category": "인터뷰",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791189909178"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791189909178",
+   "cover": "https://image.aladin.co.kr/product/24549/58/cover500/k822631873_3.jpg"
   },
   {
    "title": "개발자의 글쓰기",
@@ -2231,7 +2392,8 @@
    "published": "2019-10-04",
    "isbn": "9791158391744",
    "category": "글쓰기",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791158391744"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791158391744",
+   "cover": "https://image.aladin.co.kr/product/20957/29/cover500/k512636276_1.jpg"
   },
   {
    "title": "IT 개발자의 영어 필살기",
@@ -2243,7 +2405,8 @@
    "published": "2020-01-07",
    "isbn": "9791189909093",
    "category": "영어",
-   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791189909093"
+   "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791189909093",
+   "cover": "https://image.aladin.co.kr/product/22331/23/cover500/k262636022_1.jpg"
   }
  ]
 }
