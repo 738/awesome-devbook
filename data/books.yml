@@ -1030,6 +1030,51 @@
   isbn: "9791163036807"
   category: "iOS"
 
+# ── 크로스플랫폼/리액트 네이티브
+- title: "리액트 네이티브를 다루는 기술"
+  authors: ["김민준"]
+  publisher: "길벗"
+  published: 2021-10-31
+  isbn: "9791165217341"
+  category: "크로스플랫폼/리액트 네이티브"
+- title: "처음 배우는 리액트 네이티브"
+  subtitle: "크로스 플랫폼 앱 개발을 위한 실전 입문서"
+  authors: ["김범준"]
+  publisher: "한빛미디어"
+  published: 2021-02-01
+  isbn: "9791162243879"
+  category: "크로스플랫폼/리액트 네이티브"
+- title: "앱 개발 트러블슈팅 with 리액트 네이티브"
+  subtitle: "모듈화와 TDD를 통한 에러 예방, 추적, 장애 해결 및 AI 응용 실전 노하우"
+  authors: ["윤창현"]
+  publisher: "비제이퍼블릭"
+  published: 2026-02-27
+  isbn: "9791165923402"
+  category: "크로스플랫폼/리액트 네이티브"
+
+# ── 크로스플랫폼/플러터
+- title: "코드팩토리의 플러터 프로그래밍 3판"
+  subtitle: "Dart & Flutter 입문부터 안드로이드 + iOS 10가지 모바일 앱 만들기"
+  authors: ["최지호"]
+  publisher: "골든래빗"
+  published: 2025-01-10
+  isbn: "9791194383055"
+  category: "크로스플랫폼/플러터"
+- title: "플러터 엔지니어링"
+  subtitle: "핵심 원리부터 개발 패러다임, 설계 패턴까지 실무 역량을 키우는 올인원 가이드"
+  authors: ["마지드 하지안"]
+  publisher: "한빛미디어"
+  published: 2025-09-29
+  isbn: "9791169214377"
+  category: "크로스플랫폼/플러터"
+- title: "Do it! 깡샘의 플러터 & 다트 프로그래밍"
+  subtitle: "다트 핵심 문법 총정리 + 69개 실습으로 크로스 플랫폼 모바일 만들기"
+  authors: ["강성윤"]
+  publisher: "이지스퍼블리싱"
+  published: 2023-02-06
+  isbn: "9791163034568"
+  category: "크로스플랫폼/플러터"
+
 # ── 알고리즘
 - title: "윤성우의 열혈 자료구조"
   subtitle: "C언어를 이용한 자료구조 학습서"

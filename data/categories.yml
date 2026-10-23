@@ -41,6 +41,8 @@
     - name: "AI와 LLM"
     - name: "안드로이드"
     - name: "iOS"
+    - name: "크로스플랫폼"
+      subs: ["리액트 네이티브", "플러터"]
 - group: 컴퓨터과학
   categories:
     - name: "알고리즘"
