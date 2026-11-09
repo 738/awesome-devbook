@@ -35,7 +35,7 @@
 
 📖 국내에 출간된 개발 도서 리스트입니다. 모든 책은 ISBN으로 관리되고, 링크·절판 여부는 매주 자동으로 확인합니다.
 
-📚 **169권** · 38개 분야 · 2023년 이후 출간 44권 · 절판 표기 20권
+📚 **169권** · 38개 분야 · 2023년 이후 출간 44권 · 절판 표기 22권
 
 > 분류 설명 인용문은 <소프트웨어 장인>에서 발췌했습니다.
 
@@ -83,8 +83,8 @@
 
 <details><summary><b>리더로 성장한다면</b> — 사람과 팀, 조직 구조를 다루는 일은 코드와 다른 기술이 필요하다.</summary>
 
-1. [개발 7년차, 매니저 1일차](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791162242551) - 카미유 푸르니에
-2. [스태프 엔지니어](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791140701254) - 윌 라슨
+1. [개발 7년차, 매니저 1일차](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791162242551) - 카미유 푸르니에 (절판)
+2. [스태프 엔지니어](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791140701254) - 윌 라슨 (절판)
 3. [팀 토폴로지](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791161754802) - 매튜 스켈톤, 마누엘 페이스
 4. [피플웨어](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788966261109) - 톰 드마르코, 티모시 리스터
 
@@ -173,8 +173,8 @@
 
 ### 커리어와 리더십
 
-- [개발 7년차, 매니저 1일차 | 개발만 해왔던 내가, 어느 날 갑자기 '팀'을 맡았다!](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791162242551) - 카미유 푸르니에 · 한빛미디어 · 2020
-- [스태프 엔지니어 | 관리 트랙을 넘어선 기술 리더십](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791140701254) - 윌 라슨 · 길벗 · 2022
+- (**절판**) [개발 7년차, 매니저 1일차 | 개발만 해왔던 내가, 어느 날 갑자기 '팀'을 맡았다!](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791162242551) - 카미유 푸르니에 · 한빛미디어 · 2020
+- (**절판**) [스태프 엔지니어 | 관리 트랙을 넘어선 기술 리더십](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791140701254) - 윌 라슨 · 길벗 · 2022
 - [프로그래머의 길, 멘토에게 묻다](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9788991268807) - 데이브 후버, 애디웨일 오시나이 · 인사이트 · 2010
 
 **[⬆ 맨 위로 이동](#목차)**

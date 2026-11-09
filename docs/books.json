@@ -545,6 +545,7 @@
    "published": "2020-02-04",
    "isbn": "9791162242551",
    "category": "커리어와 리더십",
+   "out_of_print": true,
    "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791162242551",
    "cover": "https://image.aladin.co.kr/product/23096/5/cover500/k692637692_1.jpg"
   },
@@ -558,6 +559,7 @@
    "published": "2022-09-12",
    "isbn": "9791140701254",
    "category": "커리어와 리더십",
+   "out_of_print": true,
    "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791140701254",
    "cover": "https://image.aladin.co.kr/product/30141/15/cover500/k632839289_1.jpg"
   },
