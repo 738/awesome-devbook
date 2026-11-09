@@ -166,6 +166,7 @@
   published: 2020-02-04
   isbn: "9791162242551"
   category: "커리어와 리더십"
+  out_of_print: true
 - title: "스태프 엔지니어"
   subtitle: "관리 트랙을 넘어선 기술 리더십"
   authors: ["윌 라슨"]
@@ -173,6 +174,7 @@
   published: 2022-09-12
   isbn: "9791140701254"
   category: "커리어와 리더십"
+  out_of_print: true
 - title: "프로그래머의 길, 멘토에게 묻다"
   authors: ["데이브 후버", "애디웨일 오시나이"]
   publisher: "인사이트"
